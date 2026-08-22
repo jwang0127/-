@@ -24,9 +24,19 @@ jobs:
         with:
           node-version: 20
       - name: Collect official snapshot
-        run: node scripts/collect_official.mjs
+        run: |
+          for attempt in 1 2 3; do
+            node scripts/collect_official.mjs && break
+            if [ "$attempt" = "3" ]; then exit 1; fi
+            sleep 20
+          done
       - name: Collect 500 company markets
-        run: node scripts/collect_500.mjs
+        run: |
+          for attempt in 1 2 3; do
+            node scripts/collect_500.mjs && break
+            if [ "$attempt" = "3" ]; then exit 1; fi
+            sleep 20
+          done
       - name: Merge and publish data
         run: node scripts/merge_market.mjs
       - name: Commit updated data
