@@ -35,7 +35,19 @@ const matches = [...grouped.entries()].map(([matchNum, timeline]) => {
     fiveHundred: fiveHundred.matches?.[matchNum.replace(/\D/g, "").slice(-3)] || { status: "unavailable", reason: "500数据尚未采集" },
   };
 }).sort((a, b) => Number(a.id) - Number(b.id));
-const payload = { businessDate: `${date.slice(0, 4)}-${date.slice(4, 6)}-${date.slice(6)}`, generatedAt: new Date().toISOString(), matchCount: matches.length, matches };
+const payload = {
+  businessDate: `${date.slice(0, 4)}-${date.slice(4, 6)}-${date.slice(6)}`,
+  generatedAt: new Date().toISOString(),
+  matchCount: matches.length,
+  sourceRegistry: [
+    { key: "sporttery", name: "中国竞彩网", role: "官方赛程与竞彩基准", status: "checked", url: "https://www.sporttery.cn/" },
+    { key: "fiveHundred", name: "500彩票网", role: "多公司亚盘/欧赔/大小球/比分页", status: fiveHundred.matches ? "checked" : "unavailable", url: "https://trade.500.com/jczq/" },
+    { key: "asianOdds", name: "AsianOdds", role: "亚洲盘、大小球、赔率变动聚合", status: "page-accessible_match-feed-not-yet-verified", url: "https://asianodds.com/zh/odds-comparison" },
+    { key: "oddsPortal", name: "OddsPortal", role: "跨公司赔率与 dropping odds 复核", status: "page-accessible_match-feed-not-yet-verified", url: "https://www.oddsportal.com/dropping-odds/" },
+    { key: "exchange", name: "Betfair Exchange", role: "交易所价格与成交量", status: "unavailable-no-public-feed", url: "https://www.betfair.com/exchange/football" },
+  ],
+  matches
+};
 await fs.mkdir("data", { recursive: true });
 await fs.writeFile(`data/market_${date}.json`, JSON.stringify(payload, null, 2), "utf8");
 console.log(JSON.stringify({ matchCount: matches.length, output: `data/market_${date}.json` }));
