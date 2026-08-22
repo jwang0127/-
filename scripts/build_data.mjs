@@ -4,6 +4,7 @@ const sourceRoot = process.argv[2] || "C:/Users/Administrator/Documents/ChatGPT/
 const date = process.argv[3] || "20260822";
 const snapshotPath = `${sourceRoot}/data/market_snapshots_${date}.jsonl`;
 const rawPath = `${sourceRoot}/data/raw/market_excel_${date}.json`;
+const fiveHundredPath = `data/raw/500_markets_${date}.json`;
 const lines = (await fs.readFile(snapshotPath, "utf8")).split(/\r?\n/).filter(Boolean);
 const snapshots = [];
 for (const line of lines) {
@@ -13,6 +14,8 @@ const latestByMatch = new Map();
 for (const row of snapshots) latestByMatch.set(row.matchNum, row);
 let raw = {};
 try { raw = JSON.parse(await fs.readFile(rawPath, "utf8")); } catch {}
+let fiveHundred = {};
+try { fiveHundred = JSON.parse(await fs.readFile(fiveHundredPath, "utf8")); } catch {}
 const rawByMatch = new Map();
 for (const group of raw.value?.matchInfoList || []) for (const match of group.subMatchList || []) rawByMatch.set(match.matchNumStr, match);
 const grouped = new Map();
@@ -29,6 +32,7 @@ const matches = [...grouped.entries()].map(([matchNum, timeline]) => {
     home: latest.home, away: latest.away, status: latest.status,
     homeRank: rawMatch.homeRank?.[0] || "", awayRank: rawMatch.awayRank?.[0] || "",
     timeline: timeline.sort((a, b) => a.capturedAt.localeCompare(b.capturedAt)),
+    fiveHundred: fiveHundred.matches?.[matchNum.replace(/\D/g, "").slice(-3)] || { status: "unavailable", reason: "500数据尚未采集" },
   };
 }).sort((a, b) => Number(a.id) - Number(b.id));
 const payload = { businessDate: `${date.slice(0, 4)}-${date.slice(4, 6)}-${date.slice(6)}`, generatedAt: new Date().toISOString(), matchCount: matches.length, matches };
