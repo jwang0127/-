@@ -43,7 +43,7 @@ function parseMatches(html) {
     const row = html.slice(x.index, starts[i + 1]?.index ?? html.length);
     const a = attrs(x.head);
     if (a.dataProcessdate && a.dataProcessdate !== dateIso) return null;
-    if (!/^周六\d{3}$/.test(a.dataMatchnum || "")) return null;
+    if (!/^周(?:一|二|三|四|五|六|日)\d{3}$/.test(a.dataMatchnum || "")) return null;
     return { id: (a.dataMatchnum || "").slice(-3), matchNum: a.dataMatchnum, fixtureId: a.dataFixtureid, home: a.dataHomesxname, away: a.dataAwaysxname, kickoff: `${a.dataMatchdate}T${a.dataMatchtime}:00+08:00`, league: a.dataSimpleleague, pages: { yazhi: `https://odds.500.com/fenxi/yazhi-${a.dataFixtureid}.shtml`, ouzhi: `https://odds.500.com/fenxi/ouzhi-${a.dataFixtureid}.shtml`, daxiao: `https://odds.500.com/fenxi/daxiao-${a.dataFixtureid}.shtml`, bifen: `https://odds.500.com/fenxi/bifen-${a.dataFixtureid}.shtml` } };
   }).filter(Boolean).filter((x, i, arr) => arr.findIndex(y => y.id === x.id) === i).slice(0, 28);
 }
