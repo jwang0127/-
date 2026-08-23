@@ -1,5 +1,5 @@
 import fs from "node:fs/promises";
-const date = process.env.MARKET_DATE || "20260822";
+const date = process.env.MARKET_DATE || new Intl.DateTimeFormat("en-CA", { timeZone: "Asia/Shanghai" }).format(new Date()).replaceAll("-", "");
 const path = `data/raw/official_snapshots_${date}.jsonl`;
 const target = `data/market_${date}.json`;
 const current = JSON.parse(await fs.readFile(target, "utf8"));

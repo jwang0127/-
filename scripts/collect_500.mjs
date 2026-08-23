@@ -1,6 +1,6 @@
 import fs from "node:fs/promises";
 
-const date = process.argv[2] || "20260822";
+const date = process.argv[2] || new Intl.DateTimeFormat("en-CA", { timeZone: "Asia/Shanghai" }).format(new Date()).replaceAll("-", "");
 const dateIso = `${date.slice(0, 4)}-${date.slice(4, 6)}-${date.slice(6, 8)}`;
 const outPath = `data/raw/500_markets_${date}.json`;
 const headers = { "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/131 Safari/537.36", referer: "https://trade.500.com/" };
