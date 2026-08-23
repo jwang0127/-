@@ -1,4 +1,4 @@
-const DATA_URL = "data/market_20260822.json";
+const DATA_URL = "data/market_20260823.json";
 const leagueColors = {"日本职业联赛":"#e5ff62","日本乙级联赛":"#79e3d2","韩国职业联赛":"#ff8b6d","英格兰超级联赛":"#c99cff","瑞典超级联赛":"#78a9ff","荷兰甲级联赛":"#ffbd67","默认":"#aeb9b2"};
 const $ = (s, root=document) => root.querySelector(s);
 const fmtTime = (iso) => new Date(iso).toLocaleTimeString("zh-CN", {hour:"2-digit", minute:"2-digit"});
