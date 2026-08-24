@@ -3,7 +3,13 @@ import fs from "node:fs/promises";
 const date = process.env.MARKET_DATE || new Intl.DateTimeFormat("en-CA", { timeZone: "Asia/Shanghai" }).format(new Date()).replaceAll("-", "");
 const businessDate = `${date.slice(0, 4)}-${date.slice(4, 6)}-${date.slice(6, 8)}`;
 const url = "https://webapi.sporttery.cn/gateway/uniform/football/getMatchCalculatorV1.qry?channel=c&poolCode=ttg,had,hhad,crs,hafu";
-const res = await fetch(url, { headers: { "user-agent": "football-radar-github-actions/1.0", referer: "https://m.sporttery.cn/" } });
+const res = await fetch(url, { headers: {
+  "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1",
+  referer: "https://m.sporttery.cn/mjc/jsq/zqzjq/",
+  origin: "https://m.sporttery.cn",
+  accept: "application/json, text/plain, */*",
+  "accept-language": "zh-CN,zh;q=0.9,en;q=0.8",
+} });
 if (!res.ok) throw new Error(`official ${res.status}`);
 const payload = await res.json();
 const pool = (raw) => {
