@@ -1,25 +1,38 @@
-# 足球雷达 · Market Timeline
+# 足球雷达
 
-这是 2026-08-22 足球盘口时间线看板：
+这是从 `yuanbao_python_20260820_ZhZRAn.py` 的伪代码落地而成的可审计足球赛前信息与预测流水线。
 
-- 主页面按联赛分组，并用颜色区分不同赛制/联赛。
-- 支持按比赛编号、球队、联赛筛选。
-- 每场比赛有独立详情页。
-- 详情页按时间点展示让球水位、欧赔、进球数赔率和比分赔率，并标注首末变化方向。
-- 详情页增加 500 彩票的逐公司亚盘、百家欧赔、大小球和比分盘口区块，现盘/初盘并列显示。
-- 数据由 `scripts/build_data.mjs` 从足球雷达项目的结构化快照生成。
+核心原则：
 
-当前页面使用的是已采集的官方竞彩时间点快照；无法验证的外盘字段不会用猜测补齐。后续刷新数据后重新运行：
+- 赛程和竞彩玩法只认中国竞彩网实时接口，并按 `businessDate` 分组。
+- 外部赛程、近期完赛记录、伤停、交锋、积分和公司赔率由 API-Football 逐场核验。
+- “接口已核验但返回 0 条记录”与“没有执行采集”严格区分。
+- 不使用空字符串、`None`、虚构球员、虚构赔率或缺失时的中性默认分。
+- 任何必需采集步骤失败，该场不进入可发布预测。
 
-```powershell
-node scripts/build_data.mjs "C:/Users/Administrator/Documents/ChatGPT/足球雷达" 20260822
-```
+## 运行
 
-刷新 500 全公司盘口后再生成页面：
+PowerShell：
 
 ```powershell
-node scripts/collect_500.mjs 20260822
-node scripts/build_data.mjs "C:/Users/Administrator/Documents/ChatGPT/足球雷达" 20260822
+python .\yuanbao_python_20260820_ZhZRAn.py run --date 20260820 --refresh
+python .\yuanbao_python_20260820_ZhZRAn.py audit --date 20260820
+python -m unittest discover -s tests -v
 ```
 
-以上仅为公开信息整理后的娱乐分析，不构成任何购彩建议，请理性参考。
+需要环境变量 `API_FOOTBALL_KEY`。脚本兼容被单引号或双引号包裹的 key。
+
+输出位于：
+
+- `data/sporttery_YYYYMMDD.json`：官方竞彩规范化快照
+- `data/evidence_YYYYMMDD.json`：逐场证据摘要
+- `output/prediction_YYYYMMDD.json`：机器可读预测及完整度审计
+- `output/prediction_YYYYMMDD.md`：中文完整报告
+- `output/detailed_analysis_YYYYMMDD.md`：逐场主客队分开、七章节框架分析
+- `YYYYMMDD/index.html`：静态网页
+
+“100%”指本项目定义的必需采集检查全部执行成功、每个结论都有来源，不代表比赛结果命中率。足球比赛存在随机性，任何模型都不能保证预测命中。
+
+## 自动盘口更新
+
+`auto_market_update.py` 会按中国时区确定竞彩业务日，采集中国竞彩网官方盘口快照并重建首页。GitHub Actions 工作流每 30 分钟运行一次，也支持手动传入 `YYYYMMDD`；采集结果会自动提交到仓库。缺失的盘口字段保留为 `unavailable`，不补造数据。
