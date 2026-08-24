@@ -1,6 +1,6 @@
 {
   "businessDate": "2026-08-24",
-  "generatedAt": "2026-08-24T03:56:10.141Z",
+  "generatedAt": "2026-08-24T03:57:08.669Z",
   "matchCount": 11,
   "sourceRegistry": [
     {
@@ -44,7 +44,7 @@
       "id": "001",
       "matchNum": "周一001",
       "matchId": "2041028",
-      "kickoff": "2026-08-25T00:30:00:00+08:00",
+      "kickoff": "2026-08-25T00:30:00+08:00",
       "league": "意大利甲级联赛",
       "home": "博洛尼亚",
       "away": "拉齐奥",
@@ -183,80 +183,15 @@
           "status": "Selling"
         },
         {
-          "capturedAt": "2026-08-24T03:51:49.007Z",
+          "capturedAt": "2026-08-24T11:56:29+08:00",
           "businessDate": "2026-08-24",
           "matchNum": "周一001",
           "matchId": "2041028",
-          "kickoff": "2026-08-25T00:30:00:00+08:00",
+          "kickoff": "2026-08-25T00:30:00+08:00",
           "league": "意大利甲级联赛",
           "home": "博洛尼亚",
           "away": "拉齐奥",
-          "score": "unavailable",
-          "handicap": {
-            "a": 1.57,
-            "d": 3.55,
-            "goalLine": -1,
-            "goalLineValue": -1,
-            "h": 4.75
-          },
-          "european": {
-            "a": 3.27,
-            "d": 2.92,
-            "h": 2.08
-          },
-          "goals": {
-            "s0": 9,
-            "s1": 4.05,
-            "s2": 3.25,
-            "s3": 3.9,
-            "s4": 6.8,
-            "s5": 14,
-            "s6": 26,
-            "s7": 40
-          },
-          "exactScores": {
-            "s00s00": 9,
-            "s00s01": 8.25,
-            "s00s02": 16,
-            "s00s03": 50,
-            "s00s04": 175,
-            "s00s05": 500,
-            "s01s00": 6.5,
-            "s01s01": 6,
-            "s01s02": 10,
-            "s01s03": 27,
-            "s01s04": 100,
-            "s01s05": 500,
-            "s02s00": 9,
-            "s02s01": 8,
-            "s02s02": 15,
-            "s02s03": 50,
-            "s02s04": 175,
-            "s02s05": 500,
-            "s03s00": 20,
-            "s03s01": 20,
-            "s03s02": 30,
-            "s03s03": 90,
-            "s04s00": 60,
-            "s04s01": 60,
-            "s04s02": 100,
-            "s05s00": 200,
-            "s05s01": 200,
-            "s05s02": 350
-          },
-          "source": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchCalculatorV1.qry?channel=c&poolCode=ttg,had,hhad,crs,hafu",
-          "status": "Selling"
-        },
-        {
-          "capturedAt": "2026-08-24T03:56:10.045Z",
-          "businessDate": "2026-08-24",
-          "matchNum": "周一001",
-          "matchId": "2041028",
-          "kickoff": "2026-08-25T00:30:00:00+08:00",
-          "league": "意大利甲级联赛",
-          "home": "博洛尼亚",
-          "away": "拉齐奥",
-          "score": "unavailable",
+          "score": "not_started",
           "handicap": {
             "a": 1.57,
             "d": 3.55,
@@ -329,7 +264,7 @@
               {
                 "company": "威***",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:49",
+                "capturedAt": "2026-08-24 11:56:24",
                 "current": [
                   "0.760↓",
                   "平手/半球",
@@ -345,7 +280,7 @@
               {
                 "company": "*门",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:49",
+                "capturedAt": "2026-08-24 11:56:24",
                 "current": [
                   "0.860",
                   "平手/半球",
@@ -361,7 +296,7 @@
               {
                 "company": "立*",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:49",
+                "capturedAt": "2026-08-24 11:56:24",
                 "current": [
                   "1.100",
                   "半球",
@@ -377,7 +312,7 @@
               {
                 "company": "B*****",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:49",
+                "capturedAt": "2026-08-24 11:56:24",
                 "current": [
                   "0.870",
                   "平手/半球",
@@ -393,7 +328,7 @@
               {
                 "company": "I**********",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:49",
+                "capturedAt": "2026-08-24 11:56:24",
                 "current": [
                   "1.200↑",
                   "半球",
@@ -409,7 +344,7 @@
               {
                 "company": "*冠",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:49",
+                "capturedAt": "2026-08-24 11:56:24",
                 "current": [
                   "0.890↑",
                   "平手/半球",
@@ -425,7 +360,7 @@
               {
                 "company": "易**",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:49",
+                "capturedAt": "2026-08-24 11:56:24",
                 "current": [
                   "0.910↓",
                   "平手/半球",
@@ -441,7 +376,7 @@
               {
                 "company": "o***",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:49",
+                "capturedAt": "2026-08-24 11:56:24",
                 "current": [
                   "0.900↑",
                   "平手/半球",
@@ -457,7 +392,7 @@
               {
                 "company": "伟*",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:49",
+                "capturedAt": "2026-08-24 11:56:24",
                 "current": [
                   "0.900↑",
                   "平手/半球",
@@ -474,7 +409,7 @@
               {
                 "company": "P*********",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:49",
+                "capturedAt": "2026-08-24 11:56:24",
                 "current": [
                   "0.900↑",
                   "平手/半球",
@@ -490,7 +425,7 @@
               {
                 "company": "利*",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:49",
+                "capturedAt": "2026-08-24 11:56:24",
                 "current": [
                   "0.960↑",
                   "平手/半球",
@@ -506,7 +441,7 @@
               {
                 "company": "M*************",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:49",
+                "capturedAt": "2026-08-24 11:56:24",
                 "current": [
                   "0.930↓",
                   "平手/半球 降",
@@ -523,7 +458,7 @@
               {
                 "company": "香***",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:49",
+                "capturedAt": "2026-08-24 11:56:24",
                 "current": [
                   "0.830",
                   "平手/半球",
@@ -539,7 +474,7 @@
               {
                 "company": "1**********",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:49",
+                "capturedAt": "2026-08-24 11:56:24",
                 "current": [
                   "0.930↓",
                   "平手/半球 降",
@@ -556,7 +491,7 @@
               {
                 "company": "1****",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:49",
+                "capturedAt": "2026-08-24 11:56:24",
                 "current": [
                   "0.860↑",
                   "平手/半球",
@@ -572,7 +507,7 @@
               {
                 "company": "W**********",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:49",
+                "capturedAt": "2026-08-24 11:56:24",
                 "current": [
                   "0.920↑",
                   "平手/半球",
@@ -1260,7 +1195,7 @@
               {
                 "company": "威***",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:25",
+                "capturedAt": "2026-08-24 11:54:47",
                 "current": [
                   "1.20↑",
                   "2.5",
@@ -1276,7 +1211,7 @@
               {
                 "company": "*门",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:25",
+                "capturedAt": "2026-08-24 11:54:47",
                 "current": [
                   "0.94",
                   "2/2.5",
@@ -1292,7 +1227,7 @@
               {
                 "company": "立*",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:25",
+                "capturedAt": "2026-08-24 11:54:47",
                 "current": [
                   "1.15",
                   "2.5",
@@ -1308,7 +1243,7 @@
               {
                 "company": "B*****",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:25",
+                "capturedAt": "2026-08-24 11:54:47",
                 "current": [
                   "0.97",
                   "2/2.5",
@@ -1324,7 +1259,7 @@
               {
                 "company": "I**********",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:25",
+                "capturedAt": "2026-08-24 11:54:47",
                 "current": [
                   "1.20↑",
                   "2.5",
@@ -1340,7 +1275,7 @@
               {
                 "company": "*冠",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:25",
+                "capturedAt": "2026-08-24 11:54:47",
                 "current": [
                   "0.98",
                   "2/2.5",
@@ -1356,7 +1291,7 @@
               {
                 "company": "易**",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:25",
+                "capturedAt": "2026-08-24 11:54:47",
                 "current": [
                   "0.97↑",
                   "2/2.5",
@@ -1372,7 +1307,7 @@
               {
                 "company": "o***",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:25",
+                "capturedAt": "2026-08-24 11:54:47",
                 "current": [
                   "1.02↑",
                   "2/2.5",
@@ -1389,7 +1324,7 @@
               {
                 "company": "伟*",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:25",
+                "capturedAt": "2026-08-24 11:54:47",
                 "current": [
                   "1.00↑",
                   "2/2.5",
@@ -1405,7 +1340,7 @@
               {
                 "company": "P*********",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:25",
+                "capturedAt": "2026-08-24 11:54:47",
                 "current": [
                   "1.01↑",
                   "2/2.5",
@@ -1421,7 +1356,7 @@
               {
                 "company": "1****",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:25",
+                "capturedAt": "2026-08-24 11:54:47",
                 "current": [
                   "0.90",
                   "2/2.5",
@@ -1437,7 +1372,7 @@
               {
                 "company": "利*",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:25",
+                "capturedAt": "2026-08-24 11:54:47",
                 "current": [
                   "0.98",
                   "2/2.5",
@@ -1453,7 +1388,7 @@
               {
                 "company": "M*************",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:25",
+                "capturedAt": "2026-08-24 11:54:47",
                 "current": [
                   "0.99↑",
                   "2/2.5",
@@ -1469,7 +1404,7 @@
               {
                 "company": "香***",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:25",
+                "capturedAt": "2026-08-24 11:54:47",
                 "current": [
                   "0.91",
                   "2/2.5",
@@ -1485,7 +1420,7 @@
               {
                 "company": "1**********",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:25",
+                "capturedAt": "2026-08-24 11:54:47",
                 "current": [
                   "0.99↑",
                   "2/2.5",
@@ -1501,7 +1436,7 @@
               {
                 "company": "1****",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:25",
+                "capturedAt": "2026-08-24 11:54:47",
                 "current": [
                   "0.96↑",
                   "2/2.5",
@@ -1517,7 +1452,7 @@
               {
                 "company": "W**********",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:25",
+                "capturedAt": "2026-08-24 11:54:47",
                 "current": [
                   "0.99↑",
                   "2/2.5",
@@ -1544,7 +1479,7 @@
       "id": "002",
       "matchNum": "周一002",
       "matchId": "2041029",
-      "kickoff": "2026-08-25T00:40:00:00+08:00",
+      "kickoff": "2026-08-25T00:40:00+08:00",
       "league": "沙特职业联赛",
       "home": "新未来SC",
       "away": "胡巴尔卡德西亚",
@@ -1683,80 +1618,15 @@
           "status": "Selling"
         },
         {
-          "capturedAt": "2026-08-24T03:51:49.007Z",
+          "capturedAt": "2026-08-24T11:56:29+08:00",
           "businessDate": "2026-08-24",
           "matchNum": "周一002",
           "matchId": "2041029",
-          "kickoff": "2026-08-25T00:40:00:00+08:00",
+          "kickoff": "2026-08-25T00:40:00+08:00",
           "league": "沙特职业联赛",
           "home": "新未来SC",
           "away": "胡巴尔卡德西亚",
-          "score": "unavailable",
-          "handicap": {
-            "a": 2.18,
-            "d": 3.77,
-            "goalLine": 1,
-            "goalLineValue": 1,
-            "h": 2.47
-          },
-          "european": {
-            "a": 1.4,
-            "d": 4.5,
-            "h": 5.2
-          },
-          "goals": {
-            "s0": 25,
-            "s1": 7.25,
-            "s2": 4.3,
-            "s3": 3.75,
-            "s4": 4.5,
-            "s5": 7,
-            "s6": 11,
-            "s7": 14
-          },
-          "exactScores": {
-            "s00s00": 25,
-            "s00s01": 11,
-            "s00s02": 8.75,
-            "s00s03": 13,
-            "s00s04": 22,
-            "s00s05": 42,
-            "s01s00": 19,
-            "s01s01": 9,
-            "s01s02": 7.5,
-            "s01s03": 10,
-            "s01s04": 19,
-            "s01s05": 35,
-            "s02s00": 32,
-            "s02s01": 15.5,
-            "s02s02": 14,
-            "s02s03": 18,
-            "s02s04": 30,
-            "s02s05": 60,
-            "s03s00": 80,
-            "s03s01": 40,
-            "s03s02": 35,
-            "s03s03": 42,
-            "s04s00": 250,
-            "s04s01": 100,
-            "s04s02": 100,
-            "s05s00": 700,
-            "s05s01": 350,
-            "s05s02": 300
-          },
-          "source": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchCalculatorV1.qry?channel=c&poolCode=ttg,had,hhad,crs,hafu",
-          "status": "Selling"
-        },
-        {
-          "capturedAt": "2026-08-24T03:56:10.045Z",
-          "businessDate": "2026-08-24",
-          "matchNum": "周一002",
-          "matchId": "2041029",
-          "kickoff": "2026-08-25T00:40:00:00+08:00",
-          "league": "沙特职业联赛",
-          "home": "新未来SC",
-          "away": "胡巴尔卡德西亚",
-          "score": "unavailable",
+          "score": "not_started",
           "handicap": {
             "a": 2.18,
             "d": 3.77,
@@ -1829,7 +1699,7 @@
               {
                 "company": "*门",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:49",
+                "capturedAt": "2026-08-24 11:56:24",
                 "current": [
                   "0.740",
                   "受一球",
@@ -1845,7 +1715,7 @@
               {
                 "company": "立*",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:49",
+                "capturedAt": "2026-08-24 11:56:24",
                 "current": [
                   "1.250↑",
                   "受半球",
@@ -1861,7 +1731,7 @@
               {
                 "company": "I**********",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:49",
+                "capturedAt": "2026-08-24 11:56:24",
                 "current": [
                   "0.750↑",
                   "受一球",
@@ -1877,7 +1747,7 @@
               {
                 "company": "*冠",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:49",
+                "capturedAt": "2026-08-24 11:56:24",
                 "current": [
                   "0.820↓",
                   "受一球",
@@ -1893,7 +1763,7 @@
               {
                 "company": "易**",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:49",
+                "capturedAt": "2026-08-24 11:56:24",
                 "current": [
                   "0.860↑",
                   "受一球",
@@ -1909,7 +1779,7 @@
               {
                 "company": "o***",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:49",
+                "capturedAt": "2026-08-24 11:56:24",
                 "current": [
                   "0.800↑",
                   "受一球 升",
@@ -1926,7 +1796,7 @@
               {
                 "company": "伟*",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:49",
+                "capturedAt": "2026-08-24 11:56:24",
                 "current": [
                   "0.860↑",
                   "受一球",
@@ -1942,7 +1812,7 @@
               {
                 "company": "P*********",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:49",
+                "capturedAt": "2026-08-24 11:56:24",
                 "current": [
                   "0.880↑",
                   "受一球",
@@ -1959,7 +1829,7 @@
               {
                 "company": "M*************",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:49",
+                "capturedAt": "2026-08-24 11:56:24",
                 "current": [
                   "0.840",
                   "受一球",
@@ -1975,7 +1845,7 @@
               {
                 "company": "香***",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:49",
+                "capturedAt": "2026-08-24 11:56:24",
                 "current": [
                   "0.690↓",
                   "受一球/球半",
@@ -1991,7 +1861,7 @@
               {
                 "company": "1**********",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:49",
+                "capturedAt": "2026-08-24 11:56:24",
                 "current": [
                   "0.840",
                   "受一球",
@@ -2007,7 +1877,7 @@
               {
                 "company": "1****",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:49",
+                "capturedAt": "2026-08-24 11:56:24",
                 "current": [
                   "0.800↓",
                   "受一球 降",
@@ -2024,7 +1894,7 @@
               {
                 "company": "W**********",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:49",
+                "capturedAt": "2026-08-24 11:56:24",
                 "current": [
                   "0.870↓",
                   "受一球 降",
@@ -2647,7 +2517,7 @@
               {
                 "company": "威***",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:25",
+                "capturedAt": "2026-08-24 11:54:47",
                 "current": [
                   "1.30↑",
                   "3.5↑",
@@ -2664,7 +2534,7 @@
               {
                 "company": "*门",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:25",
+                "capturedAt": "2026-08-24 11:54:47",
                 "current": [
                   "0.71",
                   "3",
@@ -2680,7 +2550,7 @@
               {
                 "company": "立*",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:25",
+                "capturedAt": "2026-08-24 11:54:47",
                 "current": [
                   "1.30↑",
                   "3.5↑",
@@ -2697,7 +2567,7 @@
               {
                 "company": "I**********",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:25",
+                "capturedAt": "2026-08-24 11:54:47",
                 "current": [
                   "1.30↑",
                   "3.5↑",
@@ -2714,7 +2584,7 @@
               {
                 "company": "*冠",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:25",
+                "capturedAt": "2026-08-24 11:54:47",
                 "current": [
                   "0.80↓",
                   "3",
@@ -2730,7 +2600,7 @@
               {
                 "company": "易**",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:25",
+                "capturedAt": "2026-08-24 11:54:47",
                 "current": [
                   "0.82↓",
                   "3",
@@ -2746,7 +2616,7 @@
               {
                 "company": "o***",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:25",
+                "capturedAt": "2026-08-24 11:54:47",
                 "current": [
                   "1.04↑",
                   "3/3.5↑",
@@ -2763,7 +2633,7 @@
               {
                 "company": "伟*",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:25",
+                "capturedAt": "2026-08-24 11:54:47",
                 "current": [
                   "0.83↓",
                   "3",
@@ -2779,7 +2649,7 @@
               {
                 "company": "P*********",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:25",
+                "capturedAt": "2026-08-24 11:54:47",
                 "current": [
                   "0.84↓",
                   "3",
@@ -2795,7 +2665,7 @@
               {
                 "company": "1****",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:25",
+                "capturedAt": "2026-08-24 11:54:47",
                 "current": [
                   "0.83↓",
                   "3",
@@ -2811,7 +2681,7 @@
               {
                 "company": "M*************",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:25",
+                "capturedAt": "2026-08-24 11:54:47",
                 "current": [
                   "0.91",
                   "3",
@@ -2827,7 +2697,7 @@
               {
                 "company": "香***",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:25",
+                "capturedAt": "2026-08-24 11:54:47",
                 "current": [
                   "1.00",
                   "3.5",
@@ -2843,7 +2713,7 @@
               {
                 "company": "1**********",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:25",
+                "capturedAt": "2026-08-24 11:54:47",
                 "current": [
                   "0.91",
                   "3",
@@ -2859,7 +2729,7 @@
               {
                 "company": "1****",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:25",
+                "capturedAt": "2026-08-24 11:54:47",
                 "current": [
                   "0.85↓",
                   "3",
@@ -2875,7 +2745,7 @@
               {
                 "company": "W**********",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:25",
+                "capturedAt": "2026-08-24 11:54:47",
                 "current": [
                   "0.85↓",
                   "3",
@@ -2902,7 +2772,7 @@
       "id": "003",
       "matchNum": "周一003",
       "matchId": "2041030",
-      "kickoff": "2026-08-25T01:00:00:00+08:00",
+      "kickoff": "2026-08-25T01:00:00+08:00",
       "league": "瑞典超级联赛",
       "home": "马尔默",
       "away": "佐加顿斯",
@@ -3041,80 +2911,15 @@
           "status": "Selling"
         },
         {
-          "capturedAt": "2026-08-24T03:51:49.007Z",
+          "capturedAt": "2026-08-24T11:56:29+08:00",
           "businessDate": "2026-08-24",
           "matchNum": "周一003",
           "matchId": "2041030",
-          "kickoff": "2026-08-25T01:00:00:00+08:00",
+          "kickoff": "2026-08-25T01:00:00+08:00",
           "league": "瑞典超级联赛",
           "home": "马尔默",
           "away": "佐加顿斯",
-          "score": "unavailable",
-          "handicap": {
-            "a": 4.1,
-            "d": 4.1,
-            "goalLine": 1,
-            "goalLineValue": 1,
-            "h": 1.56
-          },
-          "european": {
-            "a": 2.07,
-            "d": 3.65,
-            "h": 2.7
-          },
-          "goals": {
-            "s0": 22,
-            "s1": 7.25,
-            "s2": 4.5,
-            "s3": 3.7,
-            "s4": 4.6,
-            "s5": 6.85,
-            "s6": 11,
-            "s7": 13.5
-          },
-          "exactScores": {
-            "s00s00": 22,
-            "s00s01": 13.5,
-            "s00s02": 14,
-            "s00s03": 21,
-            "s00s04": 55,
-            "s00s05": 100,
-            "s01s00": 14,
-            "s01s01": 8.25,
-            "s01s02": 7.7,
-            "s01s03": 14,
-            "s01s04": 33,
-            "s01s05": 75,
-            "s02s00": 19,
-            "s02s01": 9.5,
-            "s02s02": 11,
-            "s02s03": 17,
-            "s02s04": 40,
-            "s02s05": 100,
-            "s03s00": 30,
-            "s03s01": 20,
-            "s03s02": 20,
-            "s03s03": 30,
-            "s04s00": 75,
-            "s04s01": 50,
-            "s04s02": 50,
-            "s05s00": 250,
-            "s05s01": 150,
-            "s05s02": 150
-          },
-          "source": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchCalculatorV1.qry?channel=c&poolCode=ttg,had,hhad,crs,hafu",
-          "status": "Selling"
-        },
-        {
-          "capturedAt": "2026-08-24T03:56:10.045Z",
-          "businessDate": "2026-08-24",
-          "matchNum": "周一003",
-          "matchId": "2041030",
-          "kickoff": "2026-08-25T01:00:00:00+08:00",
-          "league": "瑞典超级联赛",
-          "home": "马尔默",
-          "away": "佐加顿斯",
-          "score": "unavailable",
+          "score": "not_started",
           "handicap": {
             "a": 4.1,
             "d": 4.1,
@@ -3187,7 +2992,7 @@
               {
                 "company": "威***",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:49",
+                "capturedAt": "2026-08-24 11:56:24",
                 "current": [
                   "0.900↑",
                   "平手 升",
@@ -3204,7 +3009,7 @@
               {
                 "company": "*门",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:49",
+                "capturedAt": "2026-08-24 11:56:24",
                 "current": [
                   "0.880",
                   "平手",
@@ -3220,7 +3025,7 @@
               {
                 "company": "立*",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:49",
+                "capturedAt": "2026-08-24 11:56:24",
                 "current": [
                   "1.400↑",
                   "半球 升",
@@ -3237,7 +3042,7 @@
               {
                 "company": "B*****",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:49",
+                "capturedAt": "2026-08-24 11:56:24",
                 "current": [
                   "0.900↓",
                   "平手",
@@ -3253,7 +3058,7 @@
               {
                 "company": "I**********",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:49",
+                "capturedAt": "2026-08-24 11:56:24",
                 "current": [
                   "0.900",
                   "平手",
@@ -3269,7 +3074,7 @@
               {
                 "company": "*冠",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:49",
+                "capturedAt": "2026-08-24 11:56:24",
                 "current": [
                   "1.010↑",
                   "平手",
@@ -3285,7 +3090,7 @@
               {
                 "company": "易**",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:49",
+                "capturedAt": "2026-08-24 11:56:24",
                 "current": [
                   "0.960↑",
                   "平手",
@@ -3301,7 +3106,7 @@
               {
                 "company": "o***",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:49",
+                "capturedAt": "2026-08-24 11:56:24",
                 "current": [
                   "0.900↓",
                   "平手",
@@ -3317,7 +3122,7 @@
               {
                 "company": "伟*",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:49",
+                "capturedAt": "2026-08-24 11:56:24",
                 "current": [
                   "0.940↑",
                   "平手",
@@ -3333,7 +3138,7 @@
               {
                 "company": "P*********",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:49",
+                "capturedAt": "2026-08-24 11:56:24",
                 "current": [
                   "0.960↑",
                   "平手",
@@ -3349,7 +3154,7 @@
               {
                 "company": "利*",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:49",
+                "capturedAt": "2026-08-24 11:56:24",
                 "current": [
                   "1.010↑",
                   "平手",
@@ -3365,7 +3170,7 @@
               {
                 "company": "M*************",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:49",
+                "capturedAt": "2026-08-24 11:56:24",
                 "current": [
                   "1.000↑",
                   "平手",
@@ -3381,7 +3186,7 @@
               {
                 "company": "香***",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:49",
+                "capturedAt": "2026-08-24 11:56:24",
                 "current": [
                   "0.920",
                   "平手",
@@ -3397,7 +3202,7 @@
               {
                 "company": "1**********",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:49",
+                "capturedAt": "2026-08-24 11:56:24",
                 "current": [
                   "1.000↑",
                   "平手",
@@ -3413,7 +3218,7 @@
               {
                 "company": "1****",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:49",
+                "capturedAt": "2026-08-24 11:56:24",
                 "current": [
                   "0.920",
                   "平手",
@@ -3429,7 +3234,7 @@
               {
                 "company": "W**********",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:49",
+                "capturedAt": "2026-08-24 11:56:24",
                 "current": [
                   "1.010↑",
                   "平手",
@@ -4117,7 +3922,7 @@
               {
                 "company": "威***",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:25",
+                "capturedAt": "2026-08-24 11:56:58",
                 "current": [
                   "0.57↓",
                   "2.5",
@@ -4133,7 +3938,7 @@
               {
                 "company": "*门",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:25",
+                "capturedAt": "2026-08-24 11:56:58",
                 "current": [
                   "0.89",
                   "3",
@@ -4149,7 +3954,7 @@
               {
                 "company": "立*",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:25",
+                "capturedAt": "2026-08-24 11:56:58",
                 "current": [
                   "0.55",
                   "2.5",
@@ -4165,7 +3970,7 @@
               {
                 "company": "B*****",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:25",
+                "capturedAt": "2026-08-24 11:56:58",
                 "current": [
                   "0.92↓",
                   "3",
@@ -4181,7 +3986,7 @@
               {
                 "company": "I**********",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:25",
+                "capturedAt": "2026-08-24 11:56:58",
                 "current": [
                   "0.60↑",
                   "2.5",
@@ -4197,7 +4002,7 @@
               {
                 "company": "*冠",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:25",
+                "capturedAt": "2026-08-24 11:56:58",
                 "current": [
                   "0.93↑",
                   "3",
@@ -4213,7 +4018,7 @@
               {
                 "company": "易**",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:25",
+                "capturedAt": "2026-08-24 11:56:58",
                 "current": [
                   "0.93↑",
                   "3",
@@ -4227,9 +4032,25 @@
                 "source": "https://odds.500.com/fenxi/daxiao-1362748.shtml"
               },
               {
+                "company": "伟*",
+                "market": "daxiao",
+                "capturedAt": "2026-08-24 11:56:58",
+                "current": [
+                  "0.90↑",
+                  "3",
+                  "0.87↓"
+                ],
+                "initial": [
+                  "0.89",
+                  "3",
+                  "0.88"
+                ],
+                "source": "https://odds.500.com/fenxi/daxiao-1362748.shtml"
+              },
+              {
                 "company": "o***",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:25",
+                "capturedAt": "2026-08-24 11:56:58",
                 "current": [
                   "0.84↑",
                   "3↑",
@@ -4244,25 +4065,9 @@
                 "source": "https://odds.500.com/fenxi/daxiao-1362748.shtml"
               },
               {
-                "company": "伟*",
-                "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:25",
-                "current": [
-                  "0.90↑",
-                  "3",
-                  "0.87↓"
-                ],
-                "initial": [
-                  "0.89",
-                  "3",
-                  "0.88"
-                ],
-                "source": "https://odds.500.com/fenxi/daxiao-1362748.shtml"
-              },
-              {
                 "company": "P*********",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:25",
+                "capturedAt": "2026-08-24 11:56:58",
                 "current": [
                   "0.92↑",
                   "3",
@@ -4278,7 +4083,7 @@
               {
                 "company": "1****",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:25",
+                "capturedAt": "2026-08-24 11:56:58",
                 "current": [
                   "0.89",
                   "3",
@@ -4294,7 +4099,7 @@
               {
                 "company": "利*",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:25",
+                "capturedAt": "2026-08-24 11:56:58",
                 "current": [
                   "0.96↓",
                   "3",
@@ -4310,7 +4115,7 @@
               {
                 "company": "M*************",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:25",
+                "capturedAt": "2026-08-24 11:56:58",
                 "current": [
                   "0.96↑",
                   "3",
@@ -4326,7 +4131,7 @@
               {
                 "company": "香***",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:25",
+                "capturedAt": "2026-08-24 11:56:58",
                 "current": [
                   "1.10",
                   "3/3.5",
@@ -4342,7 +4147,7 @@
               {
                 "company": "1**********",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:25",
+                "capturedAt": "2026-08-24 11:56:58",
                 "current": [
                   "0.96↑",
                   "3",
@@ -4358,7 +4163,7 @@
               {
                 "company": "1****",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:25",
+                "capturedAt": "2026-08-24 11:56:58",
                 "current": [
                   "0.88↓",
                   "3",
@@ -4374,7 +4179,7 @@
               {
                 "company": "W**********",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:25",
+                "capturedAt": "2026-08-24 11:56:58",
                 "current": [
                   "0.95↓",
                   "3",
@@ -4401,7 +4206,7 @@
       "id": "004",
       "matchNum": "周一004",
       "matchId": "2041031",
-      "kickoff": "2026-08-25T01:30:00:00+08:00",
+      "kickoff": "2026-08-25T01:30:00+08:00",
       "league": "西班牙甲级联赛",
       "home": "奥萨苏纳",
       "away": "莱万特",
@@ -4540,80 +4345,15 @@
           "status": "Selling"
         },
         {
-          "capturedAt": "2026-08-24T03:51:49.007Z",
+          "capturedAt": "2026-08-24T11:56:29+08:00",
           "businessDate": "2026-08-24",
           "matchNum": "周一004",
           "matchId": "2041031",
-          "kickoff": "2026-08-25T01:30:00:00+08:00",
+          "kickoff": "2026-08-25T01:30:00+08:00",
           "league": "西班牙甲级联赛",
           "home": "奥萨苏纳",
           "away": "莱万特",
-          "score": "unavailable",
-          "handicap": {
-            "a": 2,
-            "d": 3.26,
-            "goalLine": -1,
-            "goalLineValue": -1,
-            "h": 3.1
-          },
-          "european": {
-            "a": 4.66,
-            "d": 3.36,
-            "h": 1.62
-          },
-          "goals": {
-            "s0": 10.5,
-            "s1": 4.55,
-            "s2": 3.4,
-            "s3": 3.75,
-            "s4": 6,
-            "s5": 12,
-            "s6": 21,
-            "s7": 32
-          },
-          "exactScores": {
-            "s00s00": 10.5,
-            "s00s01": 12.5,
-            "s00s02": 27,
-            "s00s03": 80,
-            "s00s04": 300,
-            "s00s05": 600,
-            "s01s00": 6.5,
-            "s01s01": 6.4,
-            "s01s02": 13,
-            "s01s03": 48,
-            "s01s04": 200,
-            "s01s05": 500,
-            "s02s00": 7.75,
-            "s02s01": 7,
-            "s02s02": 16,
-            "s02s03": 50,
-            "s02s04": 200,
-            "s02s05": 600,
-            "s03s00": 13,
-            "s03s01": 13,
-            "s03s02": 27,
-            "s03s03": 85,
-            "s04s00": 31,
-            "s04s01": 30,
-            "s04s02": 70,
-            "s05s00": 85,
-            "s05s01": 90,
-            "s05s02": 200
-          },
-          "source": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchCalculatorV1.qry?channel=c&poolCode=ttg,had,hhad,crs,hafu",
-          "status": "Selling"
-        },
-        {
-          "capturedAt": "2026-08-24T03:56:10.045Z",
-          "businessDate": "2026-08-24",
-          "matchNum": "周一004",
-          "matchId": "2041031",
-          "kickoff": "2026-08-25T01:30:00:00+08:00",
-          "league": "西班牙甲级联赛",
-          "home": "奥萨苏纳",
-          "away": "莱万特",
-          "score": "unavailable",
+          "score": "not_started",
           "handicap": {
             "a": 2,
             "d": 3.26,
@@ -4686,7 +4426,7 @@
               {
                 "company": "威***",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:51",
+                "capturedAt": "2026-08-24 11:54:15",
                 "current": [
                   "0.750↓",
                   "半球 降",
@@ -4703,7 +4443,7 @@
               {
                 "company": "*门",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:51",
+                "capturedAt": "2026-08-24 11:54:15",
                 "current": [
                   "1.040",
                   "半球/一球",
@@ -4719,7 +4459,7 @@
               {
                 "company": "立*",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:51",
+                "capturedAt": "2026-08-24 11:54:15",
                 "current": [
                   "0.750↑",
                   "半球",
@@ -4735,7 +4475,7 @@
               {
                 "company": "B*****",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:51",
+                "capturedAt": "2026-08-24 11:54:15",
                 "current": [
                   "0.800↓",
                   "半球 降",
@@ -4752,7 +4492,7 @@
               {
                 "company": "I**********",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:51",
+                "capturedAt": "2026-08-24 11:54:15",
                 "current": [
                   "0.830↑",
                   "半球",
@@ -4768,7 +4508,7 @@
               {
                 "company": "*冠",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:51",
+                "capturedAt": "2026-08-24 11:54:15",
                 "current": [
                   "0.820↓",
                   "半球 降",
@@ -4785,7 +4525,7 @@
               {
                 "company": "易**",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:51",
+                "capturedAt": "2026-08-24 11:54:15",
                 "current": [
                   "1.050↑",
                   "半球/一球 升",
@@ -4802,7 +4542,7 @@
               {
                 "company": "o***",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:51",
+                "capturedAt": "2026-08-24 11:54:15",
                 "current": [
                   "0.990↑",
                   "半球/一球",
@@ -4819,7 +4559,7 @@
               {
                 "company": "伟*",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:51",
+                "capturedAt": "2026-08-24 11:54:15",
                 "current": [
                   "0.810↓",
                   "半球 降",
@@ -4836,7 +4576,7 @@
               {
                 "company": "P*********",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:51",
+                "capturedAt": "2026-08-24 11:54:15",
                 "current": [
                   "0.840↑",
                   "半球",
@@ -4853,7 +4593,7 @@
               {
                 "company": "利*",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:51",
+                "capturedAt": "2026-08-24 11:54:15",
                 "current": [
                   "1.080↑",
                   "半球/一球",
@@ -4870,7 +4610,7 @@
               {
                 "company": "M*************",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:51",
+                "capturedAt": "2026-08-24 11:54:15",
                 "current": [
                   "1.080↑",
                   "半球/一球",
@@ -4887,7 +4627,7 @@
               {
                 "company": "香***",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:51",
+                "capturedAt": "2026-08-24 11:54:15",
                 "current": [
                   "0.990",
                   "半球/一球",
@@ -4903,7 +4643,7 @@
               {
                 "company": "1**********",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:51",
+                "capturedAt": "2026-08-24 11:54:15",
                 "current": [
                   "1.080↓",
                   "半球/一球",
@@ -4920,7 +4660,7 @@
               {
                 "company": "1****",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:51",
+                "capturedAt": "2026-08-24 11:54:15",
                 "current": [
                   "0.780↓",
                   "半球 降",
@@ -4937,7 +4677,7 @@
               {
                 "company": "W**********",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:51",
+                "capturedAt": "2026-08-24 11:54:15",
                 "current": [
                   "1.060↑",
                   "半球/一球",
@@ -5626,7 +5366,7 @@
               {
                 "company": "威***",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:26",
+                "capturedAt": "2026-08-24 11:54:49",
                 "current": [
                   "1.00↑",
                   "2.5",
@@ -5642,7 +5382,7 @@
               {
                 "company": "*门",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:26",
+                "capturedAt": "2026-08-24 11:54:49",
                 "current": [
                   "1.00↑",
                   "2.5",
@@ -5658,7 +5398,7 @@
               {
                 "company": "立*",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:26",
+                "capturedAt": "2026-08-24 11:54:49",
                 "current": [
                   "1.00↑",
                   "2.5",
@@ -5674,11 +5414,12 @@
               {
                 "company": "B*****",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:26",
+                "capturedAt": "2026-08-24 11:54:49",
                 "current": [
-                  "1.05↑",
-                  "2.5",
-                  "0.80↓"
+                  "0.82↓",
+                  "2/2.5↓",
+                  "1.02↑",
+                  "1"
                 ],
                 "initial": [
                   "0.92",
@@ -5690,11 +5431,11 @@
               {
                 "company": "I**********",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:26",
+                "capturedAt": "2026-08-24 11:54:49",
                 "current": [
-                  "0.97↑",
+                  "1.00↑",
                   "2.5",
-                  "0.80↓"
+                  "0.77↓"
                 ],
                 "initial": [
                   "0.83",
@@ -5706,7 +5447,7 @@
               {
                 "company": "*冠",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:26",
+                "capturedAt": "2026-08-24 11:54:49",
                 "current": [
                   "0.83↓",
                   "2/2.5↓",
@@ -5723,7 +5464,7 @@
               {
                 "company": "易**",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:26",
+                "capturedAt": "2026-08-24 11:54:49",
                 "current": [
                   "0.80↓",
                   "2/2.5↓",
@@ -5740,11 +5481,11 @@
               {
                 "company": "伟*",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:26",
+                "capturedAt": "2026-08-24 11:54:49",
                 "current": [
-                  "1.01↑",
-                  "2.5",
-                  "0.77↓",
+                  "0.81↓",
+                  "2/2.5↓",
+                  "1.04↑",
                   "1"
                 ],
                 "initial": [
@@ -5757,7 +5498,7 @@
               {
                 "company": "o***",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:26",
+                "capturedAt": "2026-08-24 11:54:49",
                 "current": [
                   "1.08↑",
                   "2.5",
@@ -5773,7 +5514,7 @@
               {
                 "company": "P*********",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:26",
+                "capturedAt": "2026-08-24 11:54:49",
                 "current": [
                   "0.83↓",
                   "2/2.5↓",
@@ -5790,7 +5531,7 @@
               {
                 "company": "1****",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:26",
+                "capturedAt": "2026-08-24 11:54:49",
                 "current": [
                   "1.00↑",
                   "2.5",
@@ -5806,7 +5547,7 @@
               {
                 "company": "利*",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:26",
+                "capturedAt": "2026-08-24 11:54:49",
                 "current": [
                   "0.81↓",
                   "2/2.5↓",
@@ -5823,7 +5564,7 @@
               {
                 "company": "M*************",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:26",
+                "capturedAt": "2026-08-24 11:54:49",
                 "current": [
                   "0.81↓",
                   "2/2.5↓",
@@ -5840,7 +5581,7 @@
               {
                 "company": "香***",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:26",
+                "capturedAt": "2026-08-24 11:54:49",
                 "current": [
                   "0.78",
                   "2/2.5",
@@ -5856,7 +5597,7 @@
               {
                 "company": "1**********",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:26",
+                "capturedAt": "2026-08-24 11:54:49",
                 "current": [
                   "0.81↓",
                   "2/2.5↓",
@@ -5873,7 +5614,7 @@
               {
                 "company": "1****",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:26",
+                "capturedAt": "2026-08-24 11:54:49",
                 "current": [
                   "0.78↓",
                   "2/2.5↓",
@@ -5890,11 +5631,11 @@
               {
                 "company": "W**********",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:26",
+                "capturedAt": "2026-08-24 11:54:49",
                 "current": [
-                  "0.81↓",
+                  "0.83↓",
                   "2/2.5↓",
-                  "1.07↑",
+                  "1.05↑",
                   "1"
                 ],
                 "initial": [
@@ -5918,7 +5659,7 @@
       "id": "005",
       "matchNum": "周一005",
       "matchId": "2041032",
-      "kickoff": "2026-08-25T02:00:00:00+08:00",
+      "kickoff": "2026-08-25T02:00:00+08:00",
       "league": "沙特职业联赛",
       "home": "吉达联合",
       "away": "拉斯决心",
@@ -6057,80 +5798,15 @@
           "status": "Selling"
         },
         {
-          "capturedAt": "2026-08-24T03:51:49.007Z",
+          "capturedAt": "2026-08-24T11:56:29+08:00",
           "businessDate": "2026-08-24",
           "matchNum": "周一005",
           "matchId": "2041032",
-          "kickoff": "2026-08-25T02:00:00:00+08:00",
+          "kickoff": "2026-08-25T02:00:00+08:00",
           "league": "沙特职业联赛",
           "home": "吉达联合",
           "away": "拉斯决心",
-          "score": "unavailable",
-          "handicap": {
-            "a": 2.58,
-            "d": 3.5,
-            "goalLine": -1,
-            "goalLineValue": -1,
-            "h": 2.19
-          },
-          "european": {
-            "a": 6,
-            "d": 4.3,
-            "h": 1.37
-          },
-          "goals": {
-            "s0": 18,
-            "s1": 6.5,
-            "s2": 4.1,
-            "s3": 3.5,
-            "s4": 4.8,
-            "s5": 8,
-            "s6": 13.5,
-            "s7": 17.5
-          },
-          "exactScores": {
-            "s00s00": 18,
-            "s00s01": 19,
-            "s00s02": 35,
-            "s00s03": 85,
-            "s00s04": 350,
-            "s00s05": 900,
-            "s01s00": 8,
-            "s01s01": 8,
-            "s01s02": 17,
-            "s01s03": 50,
-            "s01s04": 175,
-            "s01s05": 550,
-            "s02s00": 8,
-            "s02s01": 7.25,
-            "s02s02": 16,
-            "s02s03": 45,
-            "s02s04": 175,
-            "s02s05": 550,
-            "s03s00": 11,
-            "s03s01": 9.75,
-            "s03s02": 22,
-            "s03s03": 55,
-            "s04s00": 20,
-            "s04s01": 20,
-            "s04s02": 38,
-            "s05s00": 38,
-            "s05s01": 45,
-            "s05s02": 80
-          },
-          "source": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchCalculatorV1.qry?channel=c&poolCode=ttg,had,hhad,crs,hafu",
-          "status": "Selling"
-        },
-        {
-          "capturedAt": "2026-08-24T03:56:10.045Z",
-          "businessDate": "2026-08-24",
-          "matchNum": "周一005",
-          "matchId": "2041032",
-          "kickoff": "2026-08-25T02:00:00:00+08:00",
-          "league": "沙特职业联赛",
-          "home": "吉达联合",
-          "away": "拉斯决心",
-          "score": "unavailable",
+          "score": "not_started",
           "handicap": {
             "a": 2.58,
             "d": 3.5,
@@ -6203,7 +5879,7 @@
               {
                 "company": "威***",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:51",
+                "capturedAt": "2026-08-24 11:56:26",
                 "current": [
                   "0.720↓",
                   "一球",
@@ -6219,7 +5895,7 @@
               {
                 "company": "*门",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:51",
+                "capturedAt": "2026-08-24 11:56:26",
                 "current": [
                   "0.820↓",
                   "一球",
@@ -6235,7 +5911,7 @@
               {
                 "company": "立*",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:51",
+                "capturedAt": "2026-08-24 11:56:26",
                 "current": [
                   "1.250↑",
                   "球半 升",
@@ -6252,7 +5928,7 @@
               {
                 "company": "I**********",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:51",
+                "capturedAt": "2026-08-24 11:56:26",
                 "current": [
                   "0.800↓",
                   "一球 降",
@@ -6269,7 +5945,7 @@
               {
                 "company": "*冠",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:51",
+                "capturedAt": "2026-08-24 11:56:26",
                 "current": [
                   "0.830↓",
                   "一球",
@@ -6285,7 +5961,7 @@
               {
                 "company": "易**",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:51",
+                "capturedAt": "2026-08-24 11:56:26",
                 "current": [
                   "0.840↓",
                   "一球",
@@ -6301,7 +5977,7 @@
               {
                 "company": "伟*",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:51",
+                "capturedAt": "2026-08-24 11:56:26",
                 "current": [
                   "0.840↓",
                   "一球",
@@ -6318,7 +5994,7 @@
               {
                 "company": "o***",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:51",
+                "capturedAt": "2026-08-24 11:56:26",
                 "current": [
                   "0.750↓",
                   "一球 降",
@@ -6335,7 +6011,7 @@
               {
                 "company": "P*********",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:51",
+                "capturedAt": "2026-08-24 11:56:26",
                 "current": [
                   "0.860↓",
                   "一球 降",
@@ -6352,7 +6028,7 @@
               {
                 "company": "M*************",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:51",
+                "capturedAt": "2026-08-24 11:56:26",
                 "current": [
                   "0.810↓",
                   "一球",
@@ -6368,7 +6044,7 @@
               {
                 "company": "香***",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:51",
+                "capturedAt": "2026-08-24 11:56:26",
                 "current": [
                   "0.760",
                   "一球",
@@ -6384,7 +6060,7 @@
               {
                 "company": "1**********",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:51",
+                "capturedAt": "2026-08-24 11:56:26",
                 "current": [
                   "0.810↓",
                   "一球",
@@ -6400,7 +6076,7 @@
               {
                 "company": "1****",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:51",
+                "capturedAt": "2026-08-24 11:56:26",
                 "current": [
                   "0.810↑",
                   "一球 降",
@@ -6417,7 +6093,7 @@
               {
                 "company": "W**********",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:51",
+                "capturedAt": "2026-08-24 11:56:26",
                 "current": [
                   "0.850↓",
                   "一球",
@@ -7105,7 +6781,7 @@
               {
                 "company": "威***",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:27",
+                "capturedAt": "2026-08-24 11:54:49",
                 "current": [
                   "1.25↑",
                   "3.5",
@@ -7121,7 +6797,7 @@
               {
                 "company": "*门",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:27",
+                "capturedAt": "2026-08-24 11:54:49",
                 "current": [
                   "0.83",
                   "3",
@@ -7137,7 +6813,7 @@
               {
                 "company": "立*",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:27",
+                "capturedAt": "2026-08-24 11:54:49",
                 "current": [
                   "1.25↑",
                   "3.5↑",
@@ -7154,7 +6830,7 @@
               {
                 "company": "I**********",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:27",
+                "capturedAt": "2026-08-24 11:54:49",
                 "current": [
                   "1.30↑",
                   "3.5",
@@ -7170,7 +6846,7 @@
               {
                 "company": "*冠",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:27",
+                "capturedAt": "2026-08-24 11:54:49",
                 "current": [
                   "0.82↓",
                   "3",
@@ -7186,7 +6862,7 @@
               {
                 "company": "易**",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:27",
+                "capturedAt": "2026-08-24 11:54:49",
                 "current": [
                   "0.82↑",
                   "3",
@@ -7202,7 +6878,7 @@
               {
                 "company": "o***",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:27",
+                "capturedAt": "2026-08-24 11:54:49",
                 "current": [
                   "0.74↓",
                   "3↓",
@@ -7219,7 +6895,7 @@
               {
                 "company": "伟*",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:27",
+                "capturedAt": "2026-08-24 11:54:49",
                 "current": [
                   "0.83↓",
                   "3",
@@ -7235,7 +6911,7 @@
               {
                 "company": "P*********",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:27",
+                "capturedAt": "2026-08-24 11:54:49",
                 "current": [
                   "0.84↓",
                   "3↓",
@@ -7252,7 +6928,7 @@
               {
                 "company": "1****",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:27",
+                "capturedAt": "2026-08-24 11:54:49",
                 "current": [
                   "0.79↓",
                   "3↓",
@@ -7269,7 +6945,7 @@
               {
                 "company": "M*************",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:27",
+                "capturedAt": "2026-08-24 11:54:49",
                 "current": [
                   "0.84↓",
                   "3",
@@ -7285,7 +6961,7 @@
               {
                 "company": "香***",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:27",
+                "capturedAt": "2026-08-24 11:54:49",
                 "current": [
                   "0.73",
                   "2.5/3",
@@ -7301,7 +6977,7 @@
               {
                 "company": "1**********",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:27",
+                "capturedAt": "2026-08-24 11:54:49",
                 "current": [
                   "0.84↓",
                   "3",
@@ -7317,7 +6993,7 @@
               {
                 "company": "1****",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:27",
+                "capturedAt": "2026-08-24 11:54:49",
                 "current": [
                   "0.81↓",
                   "3↓",
@@ -7334,7 +7010,7 @@
               {
                 "company": "W**********",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:27",
+                "capturedAt": "2026-08-24 11:54:49",
                 "current": [
                   "0.87↑",
                   "3",
@@ -7361,7 +7037,7 @@
       "id": "006",
       "matchNum": "周一006",
       "matchId": "2041033",
-      "kickoff": "2026-08-25T02:45:00:00+08:00",
+      "kickoff": "2026-08-25T02:45:00+08:00",
       "league": "意大利甲级联赛",
       "home": "罗马",
       "away": "佛罗伦萨",
@@ -7500,80 +7176,15 @@
           "status": "Selling"
         },
         {
-          "capturedAt": "2026-08-24T03:51:49.007Z",
+          "capturedAt": "2026-08-24T11:56:29+08:00",
           "businessDate": "2026-08-24",
           "matchNum": "周一006",
           "matchId": "2041033",
-          "kickoff": "2026-08-25T02:45:00:00+08:00",
+          "kickoff": "2026-08-25T02:45:00+08:00",
           "league": "意大利甲级联赛",
           "home": "罗马",
           "away": "佛罗伦萨",
-          "score": "unavailable",
-          "handicap": {
-            "a": 2.16,
-            "d": 3.4,
-            "goalLine": -1,
-            "goalLineValue": -1,
-            "h": 2.69
-          },
-          "european": {
-            "a": 5.05,
-            "d": 3.55,
-            "h": 1.54
-          },
-          "goals": {
-            "s0": 12,
-            "s1": 4.85,
-            "s2": 3.45,
-            "s3": 3.75,
-            "s4": 5.7,
-            "s5": 10.5,
-            "s6": 19,
-            "s7": 29
-          },
-          "exactScores": {
-            "s00s00": 12,
-            "s00s01": 14,
-            "s00s02": 27,
-            "s00s03": 90,
-            "s00s04": 350,
-            "s00s05": 800,
-            "s01s00": 6.7,
-            "s01s01": 7,
-            "s01s02": 15,
-            "s01s03": 50,
-            "s01s04": 200,
-            "s01s05": 700,
-            "s02s00": 7.5,
-            "s02s01": 7,
-            "s02s02": 16,
-            "s02s03": 50,
-            "s02s04": 200,
-            "s02s05": 700,
-            "s03s00": 11,
-            "s03s01": 12,
-            "s03s02": 25,
-            "s03s03": 90,
-            "s04s00": 24,
-            "s04s01": 28,
-            "s04s02": 60,
-            "s05s00": 60,
-            "s05s01": 75,
-            "s05s02": 175
-          },
-          "source": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchCalculatorV1.qry?channel=c&poolCode=ttg,had,hhad,crs,hafu",
-          "status": "Selling"
-        },
-        {
-          "capturedAt": "2026-08-24T03:56:10.045Z",
-          "businessDate": "2026-08-24",
-          "matchNum": "周一006",
-          "matchId": "2041033",
-          "kickoff": "2026-08-25T02:45:00:00+08:00",
-          "league": "意大利甲级联赛",
-          "home": "罗马",
-          "away": "佛罗伦萨",
-          "score": "unavailable",
+          "score": "not_started",
           "handicap": {
             "a": 2.16,
             "d": 3.4,
@@ -7646,7 +7257,7 @@
               {
                 "company": "威***",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:52",
+                "capturedAt": "2026-08-24 11:54:16",
                 "current": [
                   "0.760↑",
                   "半球/一球 升",
@@ -7663,7 +7274,7 @@
               {
                 "company": "*门",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:52",
+                "capturedAt": "2026-08-24 11:54:16",
                 "current": [
                   "0.880↓",
                   "半球/一球 降",
@@ -7680,7 +7291,7 @@
               {
                 "company": "立*",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:52",
+                "capturedAt": "2026-08-24 11:54:16",
                 "current": [
                   "0.570↑",
                   "半球",
@@ -7696,7 +7307,7 @@
               {
                 "company": "B*****",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:52",
+                "capturedAt": "2026-08-24 11:54:16",
                 "current": [
                   "0.870↓",
                   "半球/一球 降",
@@ -7713,7 +7324,7 @@
               {
                 "company": "I**********",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:52",
+                "capturedAt": "2026-08-24 11:54:16",
                 "current": [
                   "0.700↓",
                   "半球 降",
@@ -7730,7 +7341,7 @@
               {
                 "company": "*冠",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:52",
+                "capturedAt": "2026-08-24 11:54:16",
                 "current": [
                   "0.890↓",
                   "半球/一球 降",
@@ -7747,7 +7358,7 @@
               {
                 "company": "易**",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:52",
+                "capturedAt": "2026-08-24 11:54:16",
                 "current": [
                   "0.890↓",
                   "半球/一球 降",
@@ -7764,7 +7375,7 @@
               {
                 "company": "o***",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:52",
+                "capturedAt": "2026-08-24 11:54:16",
                 "current": [
                   "1.520↑",
                   "一球/球半 升",
@@ -7781,7 +7392,7 @@
               {
                 "company": "伟*",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:52",
+                "capturedAt": "2026-08-24 11:54:16",
                 "current": [
                   "0.890↓",
                   "半球/一球 降",
@@ -7798,7 +7409,7 @@
               {
                 "company": "P*********",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:52",
+                "capturedAt": "2026-08-24 11:54:16",
                 "current": [
                   "0.910↓",
                   "半球/一球 降",
@@ -7815,7 +7426,7 @@
               {
                 "company": "利*",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:52",
+                "capturedAt": "2026-08-24 11:54:16",
                 "current": [
                   "0.890↓",
                   "半球/一球 降",
@@ -7832,7 +7443,7 @@
               {
                 "company": "M*************",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:52",
+                "capturedAt": "2026-08-24 11:54:16",
                 "current": [
                   "0.880↓",
                   "半球/一球 降",
@@ -7849,7 +7460,7 @@
               {
                 "company": "香***",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:52",
+                "capturedAt": "2026-08-24 11:54:16",
                 "current": [
                   "0.980",
                   "一球",
@@ -7865,7 +7476,7 @@
               {
                 "company": "1**********",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:52",
+                "capturedAt": "2026-08-24 11:54:16",
                 "current": [
                   "0.880↓",
                   "半球/一球 降",
@@ -7882,7 +7493,7 @@
               {
                 "company": "1****",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:52",
+                "capturedAt": "2026-08-24 11:54:16",
                 "current": [
                   "0.840↓",
                   "半球/一球 降",
@@ -7899,7 +7510,7 @@
               {
                 "company": "W**********",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:52",
+                "capturedAt": "2026-08-24 11:54:16",
                 "current": [
                   "0.890↓",
                   "半球/一球 降",
@@ -8588,7 +8199,7 @@
               {
                 "company": "威***",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:28",
+                "capturedAt": "2026-08-24 11:57:00",
                 "current": [
                   "0.85",
                   "2.5",
@@ -8604,7 +8215,7 @@
               {
                 "company": "*门",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:28",
+                "capturedAt": "2026-08-24 11:57:00",
                 "current": [
                   "0.88",
                   "2.5",
@@ -8620,7 +8231,7 @@
               {
                 "company": "立*",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:28",
+                "capturedAt": "2026-08-24 11:57:00",
                 "current": [
                   "0.85",
                   "2.5",
@@ -8636,7 +8247,7 @@
               {
                 "company": "B*****",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:28",
+                "capturedAt": "2026-08-24 11:57:00",
                 "current": [
                   "0.92↑",
                   "2.5",
@@ -8652,7 +8263,7 @@
               {
                 "company": "I**********",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:28",
+                "capturedAt": "2026-08-24 11:57:00",
                 "current": [
                   "0.85",
                   "2.5",
@@ -8668,7 +8279,7 @@
               {
                 "company": "*冠",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:28",
+                "capturedAt": "2026-08-24 11:57:00",
                 "current": [
                   "0.92",
                   "2.5",
@@ -8684,7 +8295,7 @@
               {
                 "company": "易**",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:28",
+                "capturedAt": "2026-08-24 11:57:00",
                 "current": [
                   "0.96↑",
                   "2.5",
@@ -8700,7 +8311,7 @@
               {
                 "company": "o***",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:28",
+                "capturedAt": "2026-08-24 11:57:00",
                 "current": [
                   "0.99↑",
                   "2.5",
@@ -8717,7 +8328,7 @@
               {
                 "company": "伟*",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:28",
+                "capturedAt": "2026-08-24 11:57:00",
                 "current": [
                   "0.96↑",
                   "2.5",
@@ -8733,7 +8344,7 @@
               {
                 "company": "P*********",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:28",
+                "capturedAt": "2026-08-24 11:57:00",
                 "current": [
                   "0.98↑",
                   "2.5",
@@ -8749,7 +8360,7 @@
               {
                 "company": "1****",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:28",
+                "capturedAt": "2026-08-24 11:57:00",
                 "current": [
                   "0.87↑",
                   "2.5",
@@ -8765,7 +8376,7 @@
               {
                 "company": "利*",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:28",
+                "capturedAt": "2026-08-24 11:57:00",
                 "current": [
                   "0.98↑",
                   "2.5",
@@ -8781,7 +8392,7 @@
               {
                 "company": "M*************",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:28",
+                "capturedAt": "2026-08-24 11:57:00",
                 "current": [
                   "0.97↑",
                   "2.5",
@@ -8797,7 +8408,7 @@
               {
                 "company": "香***",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:28",
+                "capturedAt": "2026-08-24 11:57:00",
                 "current": [
                   "0.86",
                   "2.5",
@@ -8813,7 +8424,7 @@
               {
                 "company": "1**********",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:28",
+                "capturedAt": "2026-08-24 11:57:00",
                 "current": [
                   "0.97↑",
                   "2.5",
@@ -8829,7 +8440,7 @@
               {
                 "company": "1****",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:28",
+                "capturedAt": "2026-08-24 11:57:00",
                 "current": [
                   "0.90↑",
                   "2.5",
@@ -8845,7 +8456,7 @@
               {
                 "company": "W**********",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:28",
+                "capturedAt": "2026-08-24 11:57:00",
                 "current": [
                   "0.96↑",
                   "2.5",
@@ -8872,7 +8483,7 @@
       "id": "007",
       "matchNum": "周一007",
       "matchId": "2041034",
-      "kickoff": "2026-08-25T02:45:00:00+08:00",
+      "kickoff": "2026-08-25T02:45:00+08:00",
       "league": "法国乙级联赛",
       "home": "兰斯",
       "away": "阿纳西",
@@ -9011,80 +8622,15 @@
           "status": "Selling"
         },
         {
-          "capturedAt": "2026-08-24T03:51:49.007Z",
+          "capturedAt": "2026-08-24T11:56:29+08:00",
           "businessDate": "2026-08-24",
           "matchNum": "周一007",
           "matchId": "2041034",
-          "kickoff": "2026-08-25T02:45:00:00+08:00",
+          "kickoff": "2026-08-25T02:45:00+08:00",
           "league": "法国乙级联赛",
           "home": "兰斯",
           "away": "阿纳西",
-          "score": "unavailable",
-          "handicap": {
-            "a": 1.9,
-            "d": 3.35,
-            "goalLine": -1,
-            "goalLineValue": -1,
-            "h": 3.28
-          },
-          "european": {
-            "a": 4.3,
-            "d": 3.32,
-            "h": 1.68
-          },
-          "goals": {
-            "s0": 10.5,
-            "s1": 4.5,
-            "s2": 3.45,
-            "s3": 3.8,
-            "s4": 6.1,
-            "s5": 11.5,
-            "s6": 20,
-            "s7": 30
-          },
-          "exactScores": {
-            "s00s00": 10.5,
-            "s00s01": 11.5,
-            "s00s02": 25,
-            "s00s03": 75,
-            "s00s04": 250,
-            "s00s05": 700,
-            "s01s00": 6.5,
-            "s01s01": 6.4,
-            "s01s02": 13,
-            "s01s03": 50,
-            "s01s04": 175,
-            "s01s05": 600,
-            "s02s00": 7.5,
-            "s02s01": 7,
-            "s02s02": 16,
-            "s02s03": 50,
-            "s02s04": 200,
-            "s02s05": 600,
-            "s03s00": 14,
-            "s03s01": 14,
-            "s03s02": 27,
-            "s03s03": 80,
-            "s04s00": 32,
-            "s04s01": 32,
-            "s04s02": 70,
-            "s05s00": 90,
-            "s05s01": 90,
-            "s05s02": 200
-          },
-          "source": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchCalculatorV1.qry?channel=c&poolCode=ttg,had,hhad,crs,hafu",
-          "status": "Selling"
-        },
-        {
-          "capturedAt": "2026-08-24T03:56:10.045Z",
-          "businessDate": "2026-08-24",
-          "matchNum": "周一007",
-          "matchId": "2041034",
-          "kickoff": "2026-08-25T02:45:00:00+08:00",
-          "league": "法国乙级联赛",
-          "home": "兰斯",
-          "away": "阿纳西",
-          "score": "unavailable",
+          "score": "not_started",
           "handicap": {
             "a": 1.9,
             "d": 3.35,
@@ -9157,7 +8703,7 @@
               {
                 "company": "威***",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:52",
+                "capturedAt": "2026-08-24 11:56:27",
                 "current": [
                   "0.910↑",
                   "半球",
@@ -9174,7 +8720,7 @@
               {
                 "company": "*门",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:52",
+                "capturedAt": "2026-08-24 11:56:27",
                 "current": [
                   "1.100↑",
                   "半球/一球",
@@ -9190,7 +8736,7 @@
               {
                 "company": "立*",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:52",
+                "capturedAt": "2026-08-24 11:56:27",
                 "current": [
                   "0.850↑",
                   "半球",
@@ -9206,7 +8752,7 @@
               {
                 "company": "B*****",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:52",
+                "capturedAt": "2026-08-24 11:56:27",
                 "current": [
                   "0.800↓",
                   "半球 降",
@@ -9223,7 +8769,7 @@
               {
                 "company": "I**********",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:52",
+                "capturedAt": "2026-08-24 11:56:27",
                 "current": [
                   "0.900↑",
                   "半球",
@@ -9239,7 +8785,7 @@
               {
                 "company": "*冠",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:52",
+                "capturedAt": "2026-08-24 11:56:27",
                 "current": [
                   "1.120↑",
                   "半球/一球",
@@ -9255,7 +8801,7 @@
               {
                 "company": "易**",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:52",
+                "capturedAt": "2026-08-24 11:56:27",
                 "current": [
                   "0.890↑",
                   "半球",
@@ -9270,26 +8816,9 @@
                 "source": "https://odds.500.com/fenxi/yazhi-1416876.shtml"
               },
               {
-                "company": "o***",
-                "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:52",
-                "current": [
-                  "0.670↓",
-                  "平手/半球 降",
-                  "1.110↑",
-                  "3"
-                ],
-                "initial": [
-                  "1.200",
-                  "一球",
-                  "0.620"
-                ],
-                "source": "https://odds.500.com/fenxi/yazhi-1416876.shtml"
-              },
-              {
                 "company": "伟*",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:52",
+                "capturedAt": "2026-08-24 11:56:27",
                 "current": [
                   "0.950↑",
                   "半球",
@@ -9304,9 +8833,26 @@
                 "source": "https://odds.500.com/fenxi/yazhi-1416876.shtml"
               },
               {
+                "company": "o***",
+                "market": "yazhi",
+                "capturedAt": "2026-08-24 11:56:27",
+                "current": [
+                  "0.670↓",
+                  "平手/半球 降",
+                  "1.110↑",
+                  "3"
+                ],
+                "initial": [
+                  "1.200",
+                  "一球",
+                  "0.620"
+                ],
+                "source": "https://odds.500.com/fenxi/yazhi-1416876.shtml"
+              },
+              {
                 "company": "P*********",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:52",
+                "capturedAt": "2026-08-24 11:56:27",
                 "current": [
                   "0.910↓",
                   "半球 降",
@@ -9323,7 +8869,7 @@
               {
                 "company": "利*",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:52",
+                "capturedAt": "2026-08-24 11:56:27",
                 "current": [
                   "0.950↓",
                   "半球 降",
@@ -9340,7 +8886,7 @@
               {
                 "company": "M*************",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:52",
+                "capturedAt": "2026-08-24 11:56:27",
                 "current": [
                   "1.030↑",
                   "半球",
@@ -9357,7 +8903,7 @@
               {
                 "company": "1**********",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:52",
+                "capturedAt": "2026-08-24 11:56:27",
                 "current": [
                   "1.030↓",
                   "半球 降",
@@ -9374,7 +8920,7 @@
               {
                 "company": "1****",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:52",
+                "capturedAt": "2026-08-24 11:56:27",
                 "current": [
                   "0.940↑",
                   "半球 降",
@@ -9391,7 +8937,7 @@
               {
                 "company": "W**********",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:52",
+                "capturedAt": "2026-08-24 11:56:27",
                 "current": [
                   "1.010↑",
                   "半球 降",
@@ -10080,7 +9626,7 @@
               {
                 "company": "威***",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:28",
+                "capturedAt": "2026-08-24 11:54:50",
                 "current": [
                   "0.85↓",
                   "2.5",
@@ -10096,7 +9642,7 @@
               {
                 "company": "*门",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:28",
+                "capturedAt": "2026-08-24 11:54:50",
                 "current": [
                   "0.84",
                   "2.5",
@@ -10112,7 +9658,7 @@
               {
                 "company": "立*",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:28",
+                "capturedAt": "2026-08-24 11:54:50",
                 "current": [
                   "0.91↑",
                   "2.5",
@@ -10128,7 +9674,7 @@
               {
                 "company": "B*****",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:28",
+                "capturedAt": "2026-08-24 11:54:50",
                 "current": [
                   "0.92↓",
                   "2.5",
@@ -10144,7 +9690,7 @@
               {
                 "company": "I**********",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:28",
+                "capturedAt": "2026-08-24 11:54:50",
                 "current": [
                   "0.90",
                   "2.5",
@@ -10160,7 +9706,7 @@
               {
                 "company": "*冠",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:28",
+                "capturedAt": "2026-08-24 11:54:50",
                 "current": [
                   "0.96↑",
                   "2.5",
@@ -10176,7 +9722,7 @@
               {
                 "company": "易**",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:28",
+                "capturedAt": "2026-08-24 11:54:50",
                 "current": [
                   "0.88↓",
                   "2.5",
@@ -10192,7 +9738,7 @@
               {
                 "company": "o***",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:28",
+                "capturedAt": "2026-08-24 11:54:50",
                 "current": [
                   "0.82↓",
                   "2.5",
@@ -10208,7 +9754,7 @@
               {
                 "company": "伟*",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:28",
+                "capturedAt": "2026-08-24 11:54:50",
                 "current": [
                   "0.90↓",
                   "2.5",
@@ -10224,7 +9770,7 @@
               {
                 "company": "P*********",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:28",
+                "capturedAt": "2026-08-24 11:54:50",
                 "current": [
                   "0.85↓",
                   "2.5",
@@ -10240,7 +9786,7 @@
               {
                 "company": "1****",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:28",
+                "capturedAt": "2026-08-24 11:54:50",
                 "current": [
                   "0.88↓",
                   "2.5",
@@ -10256,7 +9802,7 @@
               {
                 "company": "利*",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:28",
+                "capturedAt": "2026-08-24 11:54:50",
                 "current": [
                   "0.94↓",
                   "2.5",
@@ -10272,7 +9818,7 @@
               {
                 "company": "M*************",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:28",
+                "capturedAt": "2026-08-24 11:54:50",
                 "current": [
                   "0.91↓",
                   "2.5",
@@ -10288,7 +9834,7 @@
               {
                 "company": "香***",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:28",
+                "capturedAt": "2026-08-24 11:54:50",
                 "current": [
                   "0.88",
                   "2.5",
@@ -10304,7 +9850,7 @@
               {
                 "company": "1**********",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:28",
+                "capturedAt": "2026-08-24 11:54:50",
                 "current": [
                   "0.91↓",
                   "2.5",
@@ -10320,7 +9866,7 @@
               {
                 "company": "1****",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:28",
+                "capturedAt": "2026-08-24 11:54:50",
                 "current": [
                   "0.89↓",
                   "2.5",
@@ -10336,7 +9882,7 @@
               {
                 "company": "W**********",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:28",
+                "capturedAt": "2026-08-24 11:54:50",
                 "current": [
                   "0.97↓",
                   "2.5",
@@ -10364,7 +9910,7 @@
       "id": "008",
       "matchNum": "周一008",
       "matchId": "2041035",
-      "kickoff": "2026-08-25T03:00:00:00+08:00",
+      "kickoff": "2026-08-25T03:00:00+08:00",
       "league": "英格兰超级联赛",
       "home": "富勒姆",
       "away": "切尔西",
@@ -10503,80 +10049,15 @@
           "status": "Selling"
         },
         {
-          "capturedAt": "2026-08-24T03:51:49.007Z",
+          "capturedAt": "2026-08-24T11:56:29+08:00",
           "businessDate": "2026-08-24",
           "matchNum": "周一008",
           "matchId": "2041035",
-          "kickoff": "2026-08-25T03:00:00:00+08:00",
+          "kickoff": "2026-08-25T03:00:00+08:00",
           "league": "英格兰超级联赛",
           "home": "富勒姆",
           "away": "切尔西",
-          "score": "unavailable",
-          "handicap": {
-            "a": 3.15,
-            "d": 3.5,
-            "goalLine": 1,
-            "goalLineValue": 1,
-            "h": 1.9
-          },
-          "european": {
-            "a": 1.7,
-            "d": 3.6,
-            "h": 3.8
-          },
-          "goals": {
-            "s0": 16,
-            "s1": 6.2,
-            "s2": 4,
-            "s3": 3.5,
-            "s4": 4.5,
-            "s5": 8.5,
-            "s6": 16,
-            "s7": 24
-          },
-          "exactScores": {
-            "s00s00": 16,
-            "s00s01": 9.5,
-            "s00s02": 10,
-            "s00s03": 17,
-            "s00s04": 35,
-            "s00s05": 100,
-            "s01s00": 14.5,
-            "s01s01": 7.5,
-            "s01s02": 7,
-            "s01s03": 12.5,
-            "s01s04": 28,
-            "s01s05": 80,
-            "s02s00": 23,
-            "s02s01": 10.5,
-            "s02s02": 11.5,
-            "s02s03": 20,
-            "s02s04": 50,
-            "s02s05": 120,
-            "s03s00": 50,
-            "s03s01": 27,
-            "s03s02": 30,
-            "s03s03": 40,
-            "s04s00": 150,
-            "s04s01": 90,
-            "s04s02": 100,
-            "s05s00": 500,
-            "s05s01": 350,
-            "s05s02": 350
-          },
-          "source": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchCalculatorV1.qry?channel=c&poolCode=ttg,had,hhad,crs,hafu",
-          "status": "Selling"
-        },
-        {
-          "capturedAt": "2026-08-24T03:56:10.045Z",
-          "businessDate": "2026-08-24",
-          "matchNum": "周一008",
-          "matchId": "2041035",
-          "kickoff": "2026-08-25T03:00:00:00+08:00",
-          "league": "英格兰超级联赛",
-          "home": "富勒姆",
-          "away": "切尔西",
-          "score": "unavailable",
+          "score": "not_started",
           "handicap": {
             "a": 3.15,
             "d": 3.5,
@@ -10649,7 +10130,7 @@
               {
                 "company": "威***",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:52",
+                "capturedAt": "2026-08-24 11:56:28",
                 "current": [
                   "0.950↑",
                   "受半球 降",
@@ -10666,7 +10147,7 @@
               {
                 "company": "*门",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:52",
+                "capturedAt": "2026-08-24 11:56:28",
                 "current": [
                   "1.000↑",
                   "受半球 降",
@@ -10683,7 +10164,7 @@
               {
                 "company": "立*",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:52",
+                "capturedAt": "2026-08-24 11:56:28",
                 "current": [
                   "0.850↑",
                   "受半球",
@@ -10699,7 +10180,7 @@
               {
                 "company": "B*****",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:52",
+                "capturedAt": "2026-08-24 11:56:28",
                 "current": [
                   "1.020↑",
                   "受半球 降",
@@ -10716,11 +10197,11 @@
               {
                 "company": "I**********",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:52",
+                "capturedAt": "2026-08-24 11:56:28",
                 "current": [
                   "0.950↑",
                   "受半球",
-                  "0.850↓"
+                  "0.830↓"
                 ],
                 "initial": [
                   "0.650",
@@ -10732,7 +10213,7 @@
               {
                 "company": "*冠",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:52",
+                "capturedAt": "2026-08-24 11:56:28",
                 "current": [
                   "0.830↓",
                   "受半球/一球 降",
@@ -10749,11 +10230,11 @@
               {
                 "company": "易**",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:52",
+                "capturedAt": "2026-08-24 11:56:28",
                 "current": [
-                  "1.040↑",
+                  "1.030↑",
                   "受半球",
-                  "0.810↓",
+                  "0.820↓",
                   "1"
                 ],
                 "initial": [
@@ -10766,7 +10247,7 @@
               {
                 "company": "o***",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:52",
+                "capturedAt": "2026-08-24 11:56:28",
                 "current": [
                   "0.730↓",
                   "受半球/一球 降",
@@ -10783,11 +10264,11 @@
               {
                 "company": "伟*",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:52",
+                "capturedAt": "2026-08-24 11:56:28",
                 "current": [
-                  "1.060↑",
+                  "1.050↑",
                   "受半球 降",
-                  "0.820↓",
+                  "0.830↓",
                   "2"
                 ],
                 "initial": [
@@ -10800,7 +10281,7 @@
               {
                 "company": "P*********",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:52",
+                "capturedAt": "2026-08-24 11:56:28",
                 "current": [
                   "1.050↑",
                   "受半球 降",
@@ -10817,7 +10298,7 @@
               {
                 "company": "利*",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:52",
+                "capturedAt": "2026-08-24 11:56:28",
                 "current": [
                   "1.060↑",
                   "受半球 降",
@@ -10834,7 +10315,7 @@
               {
                 "company": "M*************",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:52",
+                "capturedAt": "2026-08-24 11:56:28",
                 "current": [
                   "1.050↑",
                   "受半球 降",
@@ -10851,7 +10332,7 @@
               {
                 "company": "香***",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:52",
+                "capturedAt": "2026-08-24 11:56:28",
                 "current": [
                   "0.780↑",
                   "受半球/一球",
@@ -10867,11 +10348,11 @@
               {
                 "company": "1**********",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:52",
+                "capturedAt": "2026-08-24 11:56:28",
                 "current": [
-                  "1.060↑",
+                  "1.050↑",
                   "受半球 降",
-                  "0.840↓",
+                  "0.850↓",
                   "1"
                 ],
                 "initial": [
@@ -10884,7 +10365,7 @@
               {
                 "company": "1****",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:52",
+                "capturedAt": "2026-08-24 11:56:28",
                 "current": [
                   "0.980↑",
                   "受半球 降",
@@ -10901,7 +10382,7 @@
               {
                 "company": "W**********",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:52",
+                "capturedAt": "2026-08-24 11:56:28",
                 "current": [
                   "1.060↑",
                   "受半球 降",
@@ -10918,670 +10399,10 @@
             ]
           },
           "ouzhi": {
-            "status": "checked",
+            "status": "unavailable",
             "source": "https://odds.500.com/fenxi/ouzhi-1420342.shtml",
-            "rows": [
-              {
-                "company": "官*",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "3.55",
-                  "3.52",
-                  "1.78",
-                  "3.80",
-                  "3.60",
-                  "1.70"
-                ],
-                "initial": [
-                  "24.98%",
-                  "25.19%",
-                  "49.82%",
-                  "23.31%",
-                  "24.60%",
-                  "52.09%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1420342.shtml"
-              },
-              {
-                "company": "威***",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "3.10",
-                  "3.50",
-                  "2.15",
-                  "3.90",
-                  "3.75",
-                  "1.85"
-                ],
-                "initial": [
-                  "30.05%",
-                  "26.62%",
-                  "43.33%",
-                  "24.11%",
-                  "25.07%",
-                  "50.82%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1420342.shtml"
-              },
-              {
-                "company": "*门",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "2.83",
-                  "3.51",
-                  "2.12",
-                  "3.55",
-                  "3.50",
-                  "1.84"
-                ],
-                "initial": [
-                  "31.84%",
-                  "25.67%",
-                  "42.50%",
-                  "25.36%",
-                  "25.72%",
-                  "48.92%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1420342.shtml"
-              },
-              {
-                "company": "立*",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "3.00",
-                  "3.60",
-                  "2.20",
-                  "3.90",
-                  "3.70",
-                  "1.85"
-                ],
-                "initial": [
-                  "31.28%",
-                  "26.07%",
-                  "42.65%",
-                  "24.03%",
-                  "25.32%",
-                  "50.65%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1420342.shtml"
-              },
-              {
-                "company": "B*****",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "3.00",
-                  "3.50",
-                  "2.15",
-                  "3.90",
-                  "4.10",
-                  "1.80"
-                ],
-                "initial": [
-                  "30.75%",
-                  "26.35%",
-                  "42.90%",
-                  "24.28%",
-                  "23.10%",
-                  "52.62%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1420342.shtml"
-              },
-              {
-                "company": "I**********",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "3.15",
-                  "3.65",
-                  "2.20",
-                  "3.95",
-                  "3.90",
-                  "1.83"
-                ],
-                "initial": [
-                  "30.35%",
-                  "26.19%",
-                  "43.46%",
-                  "23.97%",
-                  "24.28%",
-                  "51.75%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1420342.shtml"
-              },
-              {
-                "company": "S***",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "3.00",
-                  "3.60",
-                  "2.10",
-                  "4.00",
-                  "3.75",
-                  "1.85"
-                ],
-                "initial": [
-                  "30.66%",
-                  "25.55%",
-                  "43.80%",
-                  "23.65%",
-                  "25.22%",
-                  "51.13%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1420342.shtml"
-              },
-              {
-                "company": "*冠",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "2.77",
-                  "3.55",
-                  "2.19",
-                  "4.20",
-                  "3.95",
-                  "1.81"
-                ],
-                "initial": [
-                  "32.84%",
-                  "25.62%",
-                  "41.54%",
-                  "22.81%",
-                  "24.26%",
-                  "52.93%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1420342.shtml"
-              },
-              {
-                "company": "易**",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "2.90",
-                  "3.50",
-                  "2.14",
-                  "3.80",
-                  "3.80",
-                  "1.86"
-                ],
-                "initial": [
-                  "31.41%",
-                  "26.03%",
-                  "42.56%",
-                  "24.73%",
-                  "24.73%",
-                  "50.53%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1420342.shtml"
-              },
-              {
-                "company": "伟*",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "3.10",
-                  "3.60",
-                  "2.10",
-                  "4.10",
-                  "3.90",
-                  "1.80"
-                ],
-                "initial": [
-                  "29.96%",
-                  "25.80%",
-                  "44.23%",
-                  "23.10%",
-                  "24.28%",
-                  "52.62%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1420342.shtml"
-              },
-              {
-                "company": "B***",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "2.95",
-                  "3.50",
-                  "2.15",
-                  "3.80",
-                  "3.60",
-                  "1.85"
-                ],
-                "initial": [
-                  "31.10%",
-                  "26.22%",
-                  "42.68%",
-                  "24.33%",
-                  "25.69%",
-                  "49.98%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1420342.shtml"
-              },
-              {
-                "company": "P*********",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "2.94",
-                  "3.67",
-                  "2.23",
-                  "4.18",
-                  "3.90",
-                  "1.85"
-                ],
-                "initial": [
-                  "32.06%",
-                  "25.68%",
-                  "42.26%",
-                  "23.09%",
-                  "24.75%",
-                  "52.17%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1420342.shtml"
-              },
-              {
-                "company": "1****",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "3.20",
-                  "3.65",
-                  "2.12",
-                  "4.20",
-                  "4.00",
-                  "1.84"
-                ],
-                "initial": [
-                  "29.53%",
-                  "25.89%",
-                  "44.58%",
-                  "23.08%",
-                  "24.23%",
-                  "52.68%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1420342.shtml"
-              },
-              {
-                "company": "C****",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "3.00",
-                  "3.60",
-                  "2.25",
-                  "3.90",
-                  "3.70",
-                  "1.91"
-                ],
-                "initial": [
-                  "31.58%",
-                  "26.32%",
-                  "42.11%",
-                  "24.41%",
-                  "25.73%",
-                  "49.85%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1420342.shtml"
-              },
-              {
-                "company": "利*",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "2.83",
-                  "3.42",
-                  "2.19",
-                  "3.72",
-                  "3.52",
-                  "1.82"
-                ],
-                "initial": [
-                  "32.05%",
-                  "26.52%",
-                  "41.42%",
-                  "24.39%",
-                  "25.77%",
-                  "49.84%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1420342.shtml"
-              },
-              {
-                "company": "U***********",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "3.25",
-                  "3.60",
-                  "2.04",
-                  "4.10",
-                  "3.65",
-                  "1.87"
-                ],
-                "initial": [
-                  "28.60%",
-                  "25.82%",
-                  "45.57%",
-                  "23.17%",
-                  "26.03%",
-                  "50.80%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1420342.shtml"
-              },
-              {
-                "company": "S****************",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "2.95",
-                  "3.50",
-                  "2.20",
-                  "3.80",
-                  "3.60",
-                  "1.85"
-                ],
-                "initial": [
-                  "31.41%",
-                  "26.47%",
-                  "42.12%",
-                  "24.33%",
-                  "25.69%",
-                  "49.98%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1420342.shtml"
-              },
-              {
-                "company": "I**********",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "2.95",
-                  "3.50",
-                  "2.19",
-                  "4.20",
-                  "3.75",
-                  "1.84"
-                ],
-                "initial": [
-                  "31.35%",
-                  "26.42%",
-                  "42.23%",
-                  "22.71%",
-                  "25.44%",
-                  "51.85%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1420342.shtml"
-              },
-              {
-                "company": "M*************",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "3.10",
-                  "3.50",
-                  "2.15",
-                  "4.20",
-                  "3.75",
-                  "1.84"
-                ],
-                "initial": [
-                  "30.05%",
-                  "26.62%",
-                  "43.33%",
-                  "22.71%",
-                  "25.44%",
-                  "51.85%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1420342.shtml"
-              },
-              {
-                "company": "香***",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "3.45",
-                  "3.60",
-                  "1.78",
-                  "3.75",
-                  "3.65",
-                  "1.70"
-                ],
-                "initial": [
-                  "25.66%",
-                  "24.59%",
-                  "49.74%",
-                  "23.62%",
-                  "24.27%",
-                  "52.11%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1420342.shtml"
-              },
-              {
-                "company": "1**********",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "3.10",
-                  "3.50",
-                  "2.15",
-                  "4.15",
-                  "3.75",
-                  "1.85"
-                ],
-                "initial": [
-                  "30.05%",
-                  "26.62%",
-                  "43.33%",
-                  "22.99%",
-                  "25.44%",
-                  "51.57%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1420342.shtml"
-              },
-              {
-                "company": "8*******",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "3.25",
-                  "3.60",
-                  "2.00",
-                  "3.90",
-                  "3.70",
-                  "1.83"
-                ],
-                "initial": [
-                  "28.35%",
-                  "25.59%",
-                  "46.06%",
-                  "23.89%",
-                  "25.19%",
-                  "50.92%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1420342.shtml"
-              },
-              {
-                "company": "大**",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "3.05",
-                  "3.65",
-                  "2.22",
-                  "3.05",
-                  "3.65",
-                  "2.22"
-                ],
-                "initial": [
-                  "31.16%",
-                  "26.04%",
-                  "42.81%",
-                  "31.16%",
-                  "26.04%",
-                  "42.81%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1420342.shtml"
-              },
-              {
-                "company": "必*",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "3.25",
-                  "3.85",
-                  "2.24",
-                  "4.30",
-                  "4.00",
-                  "1.91"
-                ],
-                "initial": [
-                  "30.35%",
-                  "25.62%",
-                  "44.03%",
-                  "23.11%",
-                  "24.85%",
-                  "52.04%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1420342.shtml"
-              },
-              {
-                "company": "1****",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "3.10",
-                  "3.60",
-                  "2.15",
-                  "3.80",
-                  "3.90",
-                  "1.86"
-                ],
-                "initial": [
-                  "30.28%",
-                  "26.07%",
-                  "43.65%",
-                  "24.89%",
-                  "24.25%",
-                  "50.85%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1420342.shtml"
-              },
-              {
-                "company": "1****",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "3.35",
-                  "3.82",
-                  "2.20",
-                  "4.21",
-                  "4.04",
-                  "1.89"
-                ],
-                "initial": [
-                  "29.41%",
-                  "25.80%",
-                  "44.79%",
-                  "23.42%",
-                  "24.41%",
-                  "52.17%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1420342.shtml"
-              },
-              {
-                "company": "**t****",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "3.15",
-                  "3.80",
-                  "2.18",
-                  "3.15",
-                  "3.80",
-                  "2.18"
-                ],
-                "initial": [
-                  "30.54%",
-                  "25.32%",
-                  "44.14%",
-                  "30.54%",
-                  "25.32%",
-                  "44.14%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1420342.shtml"
-              },
-              {
-                "company": "I********",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "2.95",
-                  "3.65",
-                  "2.10",
-                  "3.60",
-                  "3.65",
-                  "1.85"
-                ],
-                "initial": [
-                  "31.12%",
-                  "25.15%",
-                  "43.72%",
-                  "25.43%",
-                  "25.08%",
-                  "49.49%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1420342.shtml"
-              },
-              {
-                "company": "**t********",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "3.10",
-                  "3.55",
-                  "2.10",
-                  "4.00",
-                  "3.85",
-                  "1.88"
-                ],
-                "initial": [
-                  "29.86%",
-                  "26.07%",
-                  "44.07%",
-                  "24.00%",
-                  "24.94%",
-                  "51.06%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1420342.shtml"
-              },
-              {
-                "company": "**t****",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "3.00",
-                  "3.55",
-                  "2.15",
-                  "3.95",
-                  "3.95",
-                  "1.80"
-                ],
-                "initial": [
-                  "30.86%",
-                  "26.08%",
-                  "43.06%",
-                  "23.84%",
-                  "23.84%",
-                  "52.32%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1420342.shtml"
-              }
-            ]
+            "error": "Error: 429 https://odds.500.com/fenxi/ouzhi-1420342.shtml",
+            "rows": []
           },
           "daxiao": {
             "status": "checked",
@@ -11590,7 +10411,7 @@
               {
                 "company": "威***",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:28",
+                "capturedAt": "2026-08-24 11:54:50",
                 "current": [
                   "0.65↑",
                   "2.5",
@@ -11606,7 +10427,7 @@
               {
                 "company": "*门",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:28",
+                "capturedAt": "2026-08-24 11:54:50",
                 "current": [
                   "1.00",
                   "3",
@@ -11622,7 +10443,7 @@
               {
                 "company": "立*",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:28",
+                "capturedAt": "2026-08-24 11:54:50",
                 "current": [
                   "0.61↓",
                   "2.5",
@@ -11638,7 +10459,7 @@
               {
                 "company": "B*****",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:28",
+                "capturedAt": "2026-08-24 11:54:50",
                 "current": [
                   "0.85↓",
                   "2.5/3↓",
@@ -11655,7 +10476,7 @@
               {
                 "company": "I**********",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:28",
+                "capturedAt": "2026-08-24 11:54:50",
                 "current": [
                   "0.63↑",
                   "2.5",
@@ -11671,7 +10492,7 @@
               {
                 "company": "*冠",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:28",
+                "capturedAt": "2026-08-24 11:54:50",
                 "current": [
                   "0.85↓",
                   "2.5/3↓",
@@ -11688,7 +10509,7 @@
               {
                 "company": "易**",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:28",
+                "capturedAt": "2026-08-24 11:54:50",
                 "current": [
                   "0.84↓",
                   "2.5/3↓",
@@ -11705,7 +10526,7 @@
               {
                 "company": "伟*",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:28",
+                "capturedAt": "2026-08-24 11:54:50",
                 "current": [
                   "0.86↓",
                   "2.5/3↓",
@@ -11722,7 +10543,7 @@
               {
                 "company": "o***",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:28",
+                "capturedAt": "2026-08-24 11:54:50",
                 "current": [
                   "0.90↓",
                   "2.5/3↓",
@@ -11739,7 +10560,7 @@
               {
                 "company": "P*********",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:28",
+                "capturedAt": "2026-08-24 11:54:50",
                 "current": [
                   "0.87↓",
                   "2.5/3↓",
@@ -11756,7 +10577,7 @@
               {
                 "company": "1****",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:28",
+                "capturedAt": "2026-08-24 11:54:50",
                 "current": [
                   "1.00↑",
                   "3",
@@ -11773,7 +10594,7 @@
               {
                 "company": "利*",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:28",
+                "capturedAt": "2026-08-24 11:54:50",
                 "current": [
                   "0.85↑",
                   "2.5/3",
@@ -11790,7 +10611,7 @@
               {
                 "company": "M*************",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:28",
+                "capturedAt": "2026-08-24 11:54:50",
                 "current": [
                   "0.83↓",
                   "2.5/3↓",
@@ -11807,7 +10628,7 @@
               {
                 "company": "香***",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:28",
+                "capturedAt": "2026-08-24 11:54:50",
                 "current": [
                   "0.73↑",
                   "2.5/3↑",
@@ -11824,7 +10645,7 @@
               {
                 "company": "1**********",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:28",
+                "capturedAt": "2026-08-24 11:54:50",
                 "current": [
                   "0.83↓",
                   "2.5/3↓",
@@ -11841,7 +10662,7 @@
               {
                 "company": "1****",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:28",
+                "capturedAt": "2026-08-24 11:54:50",
                 "current": [
                   "0.81↓",
                   "2.5/3↓",
@@ -11858,7 +10679,7 @@
               {
                 "company": "W**********",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:28",
+                "capturedAt": "2026-08-24 11:54:50",
                 "current": [
                   "0.84↓",
                   "2.5/3↓",
@@ -11886,7 +10707,7 @@
       "id": "009",
       "matchNum": "周一009",
       "matchId": "2041036",
-      "kickoff": "2026-08-25T03:15:00:00+08:00",
+      "kickoff": "2026-08-25T03:15:00+08:00",
       "league": "葡萄牙超级联赛",
       "home": "吉维森特",
       "away": "卡萨皮亚",
@@ -12025,80 +10846,15 @@
           "status": "Selling"
         },
         {
-          "capturedAt": "2026-08-24T03:51:49.007Z",
+          "capturedAt": "2026-08-24T11:56:29+08:00",
           "businessDate": "2026-08-24",
           "matchNum": "周一009",
           "matchId": "2041036",
-          "kickoff": "2026-08-25T03:15:00:00+08:00",
+          "kickoff": "2026-08-25T03:15:00+08:00",
           "league": "葡萄牙超级联赛",
           "home": "吉维森特",
           "away": "卡萨皮亚",
-          "score": "unavailable",
-          "handicap": {
-            "a": 2.15,
-            "d": 3.13,
-            "goalLine": -1,
-            "goalLineValue": -1,
-            "h": 2.9
-          },
-          "european": {
-            "a": 5.5,
-            "d": 3.4,
-            "h": 1.53
-          },
-          "goals": {
-            "s0": 9,
-            "s1": 4.2,
-            "s2": 3.25,
-            "s3": 3.85,
-            "s4": 6.8,
-            "s5": 13.5,
-            "s6": 25,
-            "s7": 40
-          },
-          "exactScores": {
-            "s00s00": 9,
-            "s00s01": 11.5,
-            "s00s02": 30,
-            "s00s03": 120,
-            "s00s04": 550,
-            "s00s05": 1000,
-            "s01s00": 5.6,
-            "s01s01": 6.5,
-            "s01s02": 15,
-            "s01s03": 70,
-            "s01s04": 400,
-            "s01s05": 850,
-            "s02s00": 6.5,
-            "s02s01": 7.25,
-            "s02s02": 20,
-            "s02s03": 80,
-            "s02s04": 400,
-            "s02s05": 1000,
-            "s03s00": 12,
-            "s03s01": 13,
-            "s03s02": 31,
-            "s03s03": 175,
-            "s04s00": 25,
-            "s04s01": 31,
-            "s04s02": 100,
-            "s05s00": 80,
-            "s05s01": 100,
-            "s05s02": 350
-          },
-          "source": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchCalculatorV1.qry?channel=c&poolCode=ttg,had,hhad,crs,hafu",
-          "status": "Selling"
-        },
-        {
-          "capturedAt": "2026-08-24T03:56:10.045Z",
-          "businessDate": "2026-08-24",
-          "matchNum": "周一009",
-          "matchId": "2041036",
-          "kickoff": "2026-08-25T03:15:00:00+08:00",
-          "league": "葡萄牙超级联赛",
-          "home": "吉维森特",
-          "away": "卡萨皮亚",
-          "score": "unavailable",
+          "score": "not_started",
           "handicap": {
             "a": 2.15,
             "d": 3.13,
@@ -12171,7 +10927,7 @@
               {
                 "company": "威***",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:53",
+                "capturedAt": "2026-08-24 11:56:28",
                 "current": [
                   "0.880↑",
                   "半球/一球 升",
@@ -12188,7 +10944,7 @@
               {
                 "company": "*门",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:53",
+                "capturedAt": "2026-08-24 11:56:28",
                 "current": [
                   "0.900",
                   "半球/一球",
@@ -12204,7 +10960,7 @@
               {
                 "company": "立*",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:53",
+                "capturedAt": "2026-08-24 11:56:28",
                 "current": [
                   "0.670",
                   "半球",
@@ -12220,7 +10976,7 @@
               {
                 "company": "B*****",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:53",
+                "capturedAt": "2026-08-24 11:56:28",
                 "current": [
                   "0.950↑",
                   "半球/一球",
@@ -12236,7 +10992,7 @@
               {
                 "company": "I**********",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:53",
+                "capturedAt": "2026-08-24 11:56:28",
                 "current": [
                   "0.700↓",
                   "半球",
@@ -12252,7 +11008,7 @@
               {
                 "company": "*冠",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:53",
+                "capturedAt": "2026-08-24 11:56:28",
                 "current": [
                   "0.950↓",
                   "半球/一球",
@@ -12268,7 +11024,7 @@
               {
                 "company": "易**",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:53",
+                "capturedAt": "2026-08-24 11:56:28",
                 "current": [
                   "0.910↓",
                   "半球/一球",
@@ -12282,9 +11038,25 @@
                 "source": "https://odds.500.com/fenxi/yazhi-1438068.shtml"
               },
               {
+                "company": "伟*",
+                "market": "yazhi",
+                "capturedAt": "2026-08-24 11:56:28",
+                "current": [
+                  "0.940↓",
+                  "半球/一球",
+                  "0.920↑"
+                ],
+                "initial": [
+                  "1.040",
+                  "半球/一球",
+                  "0.770"
+                ],
+                "source": "https://odds.500.com/fenxi/yazhi-1438068.shtml"
+              },
+              {
                 "company": "o***",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:53",
+                "capturedAt": "2026-08-24 11:56:28",
                 "current": [
                   "0.850↓",
                   "半球/一球 降",
@@ -12299,25 +11071,9 @@
                 "source": "https://odds.500.com/fenxi/yazhi-1438068.shtml"
               },
               {
-                "company": "伟*",
-                "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:53",
-                "current": [
-                  "0.940↓",
-                  "半球/一球",
-                  "0.920↑"
-                ],
-                "initial": [
-                  "1.040",
-                  "半球/一球",
-                  "0.770"
-                ],
-                "source": "https://odds.500.com/fenxi/yazhi-1438068.shtml"
-              },
-              {
                 "company": "P*********",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:53",
+                "capturedAt": "2026-08-24 11:56:28",
                 "current": [
                   "0.970↑",
                   "半球/一球 升",
@@ -12334,7 +11090,7 @@
               {
                 "company": "利*",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:53",
+                "capturedAt": "2026-08-24 11:56:28",
                 "current": [
                   "0.920↓",
                   "半球/一球",
@@ -12350,7 +11106,7 @@
               {
                 "company": "M*************",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:53",
+                "capturedAt": "2026-08-24 11:56:28",
                 "current": [
                   "0.950↑",
                   "半球/一球",
@@ -12366,7 +11122,7 @@
               {
                 "company": "1**********",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:53",
+                "capturedAt": "2026-08-24 11:56:28",
                 "current": [
                   "0.950↑",
                   "半球/一球",
@@ -12382,7 +11138,7 @@
               {
                 "company": "1****",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:53",
+                "capturedAt": "2026-08-24 11:56:28",
                 "current": [
                   "0.920↑",
                   "半球/一球",
@@ -12399,7 +11155,7 @@
               {
                 "company": "W**********",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:53",
+                "capturedAt": "2026-08-24 11:56:28",
                 "current": [
                   "0.960↓",
                   "半球/一球",
@@ -12415,670 +11171,10 @@
             ]
           },
           "ouzhi": {
-            "status": "checked",
+            "status": "unavailable",
             "source": "https://odds.500.com/fenxi/ouzhi-1438068.shtml",
-            "rows": [
-              {
-                "company": "官*",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "1.53",
-                  "3.40",
-                  "5.50",
-                  "1.53",
-                  "3.40",
-                  "5.50"
-                ],
-                "initial": [
-                  "57.86%",
-                  "26.04%",
-                  "16.10%",
-                  "57.86%",
-                  "26.04%",
-                  "16.10%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1438068.shtml"
-              },
-              {
-                "company": "威***",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "1.70",
-                  "3.40",
-                  "4.80",
-                  "1.73",
-                  "3.40",
-                  "4.80"
-                ],
-                "initial": [
-                  "53.93%",
-                  "26.97%",
-                  "19.10%",
-                  "53.50%",
-                  "27.22%",
-                  "19.28%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1438068.shtml"
-              },
-              {
-                "company": "*门",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "1.70",
-                  "3.20",
-                  "4.50",
-                  "1.70",
-                  "3.20",
-                  "4.50"
-                ],
-                "initial": [
-                  "52.38%",
-                  "27.83%",
-                  "19.79%",
-                  "52.38%",
-                  "27.83%",
-                  "19.79%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1438068.shtml"
-              },
-              {
-                "company": "立*",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "1.73",
-                  "3.50",
-                  "5.00",
-                  "1.70",
-                  "3.70",
-                  "5.00"
-                ],
-                "initial": [
-                  "54.34%",
-                  "26.86%",
-                  "18.80%",
-                  "55.57%",
-                  "25.53%",
-                  "18.89%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1438068.shtml"
-              },
-              {
-                "company": "B*****",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "1.75",
-                  "3.40",
-                  "4.75",
-                  "1.70",
-                  "3.50",
-                  "5.25"
-                ],
-                "initial": [
-                  "53.10%",
-                  "27.33%",
-                  "19.56%",
-                  "55.26%",
-                  "26.84%",
-                  "17.89%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1438068.shtml"
-              },
-              {
-                "company": "I**********",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "1.67",
-                  "3.55",
-                  "5.00",
-                  "1.70",
-                  "3.55",
-                  "5.25"
-                ],
-                "initial": [
-                  "55.42%",
-                  "26.07%",
-                  "18.51%",
-                  "55.47%",
-                  "26.56%",
-                  "17.96%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1438068.shtml"
-              },
-              {
-                "company": "S***",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "1.75",
-                  "3.40",
-                  "4.75",
-                  "1.67",
-                  "3.40",
-                  "5.00"
-                ],
-                "initial": [
-                  "53.10%",
-                  "27.33%",
-                  "19.56%",
-                  "54.79%",
-                  "26.91%",
-                  "18.30%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1438068.shtml"
-              },
-              {
-                "company": "*冠",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "1.80",
-                  "3.40",
-                  "4.35",
-                  "1.72",
-                  "3.45",
-                  "4.80"
-                ],
-                "initial": [
-                  "51.46%",
-                  "27.24%",
-                  "21.29%",
-                  "53.85%",
-                  "26.85%",
-                  "19.30%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1438068.shtml"
-              },
-              {
-                "company": "易**",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "1.69",
-                  "3.40",
-                  "5.00",
-                  "1.69",
-                  "3.50",
-                  "5.10"
-                ],
-                "initial": [
-                  "54.49%",
-                  "27.09%",
-                  "18.42%",
-                  "55.12%",
-                  "26.61%",
-                  "18.27%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1438068.shtml"
-              },
-              {
-                "company": "伟*",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "1.75",
-                  "3.25",
-                  "4.60",
-                  "1.65",
-                  "3.40",
-                  "5.25"
-                ],
-                "initial": [
-                  "52.11%",
-                  "28.06%",
-                  "19.83%",
-                  "55.57%",
-                  "26.97%",
-                  "17.46%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1438068.shtml"
-              },
-              {
-                "company": "B***",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "1.72",
-                  "3.40",
-                  "5.00",
-                  "1.68",
-                  "3.60",
-                  "5.00"
-                ],
-                "initial": [
-                  "54.06%",
-                  "27.35%",
-                  "18.60%",
-                  "55.47%",
-                  "25.89%",
-                  "18.64%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1438068.shtml"
-              },
-              {
-                "company": "P*********",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "1.80",
-                  "3.38",
-                  "4.69",
-                  "1.73",
-                  "3.62",
-                  "5.33"
-                ],
-                "initial": [
-                  "52.18%",
-                  "27.79%",
-                  "20.03%",
-                  "55.48%",
-                  "26.51%",
-                  "18.01%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1438068.shtml"
-              },
-              {
-                "company": "1****",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "1.65",
-                  "3.50",
-                  "5.00",
-                  "1.71",
-                  "3.55",
-                  "5.20"
-                ],
-                "initial": [
-                  "55.51%",
-                  "26.17%",
-                  "18.32%",
-                  "55.23%",
-                  "26.60%",
-                  "18.16%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1438068.shtml"
-              },
-              {
-                "company": "C****",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "1.75",
-                  "3.50",
-                  "5.25",
-                  "1.70",
-                  "3.70",
-                  "5.00"
-                ],
-                "initial": [
-                  "54.55%",
-                  "27.27%",
-                  "18.18%",
-                  "55.57%",
-                  "25.53%",
-                  "18.89%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1438068.shtml"
-              },
-              {
-                "company": "利*",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "1.68",
-                  "3.27",
-                  "4.54",
-                  "1.70",
-                  "3.30",
-                  "4.78"
-                ],
-                "initial": [
-                  "53.08%",
-                  "27.27%",
-                  "19.64%",
-                  "53.45%",
-                  "27.54%",
-                  "19.01%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1438068.shtml"
-              },
-              {
-                "company": "U***********",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "1.66",
-                  "3.60",
-                  "5.60",
-                  "1.67",
-                  "3.55",
-                  "5.60"
-                ],
-                "initial": [
-                  "56.90%",
-                  "26.24%",
-                  "16.87%",
-                  "56.54%",
-                  "26.60%",
-                  "16.86%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1438068.shtml"
-              },
-              {
-                "company": "S****************",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "1.72",
-                  "3.40",
-                  "5.00",
-                  "1.68",
-                  "3.60",
-                  "5.00"
-                ],
-                "initial": [
-                  "54.06%",
-                  "27.35%",
-                  "18.60%",
-                  "55.47%",
-                  "25.89%",
-                  "18.64%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1438068.shtml"
-              },
-              {
-                "company": "I**********",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "1.72",
-                  "3.45",
-                  "4.85",
-                  "1.72",
-                  "3.65",
-                  "4.45"
-                ],
-                "initial": [
-                  "53.96%",
-                  "26.90%",
-                  "19.14%",
-                  "53.83%",
-                  "25.37%",
-                  "20.81%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1438068.shtml"
-              },
-              {
-                "company": "M*************",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "1.72",
-                  "3.45",
-                  "4.85",
-                  "1.72",
-                  "3.65",
-                  "4.45"
-                ],
-                "initial": [
-                  "53.96%",
-                  "26.90%",
-                  "19.14%",
-                  "53.83%",
-                  "25.37%",
-                  "20.81%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1438068.shtml"
-              },
-              {
-                "company": "香***",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "1.55",
-                  "3.35",
-                  "5.20",
-                  "1.55",
-                  "3.35",
-                  "5.20"
-                ],
-                "initial": [
-                  "56.79%",
-                  "26.28%",
-                  "16.93%",
-                  "56.79%",
-                  "26.28%",
-                  "16.93%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1438068.shtml"
-              },
-              {
-                "company": "1**********",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "1.72",
-                  "3.45",
-                  "4.85",
-                  "1.72",
-                  "3.65",
-                  "4.45"
-                ],
-                "initial": [
-                  "53.96%",
-                  "26.90%",
-                  "19.14%",
-                  "53.83%",
-                  "25.37%",
-                  "20.81%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1438068.shtml"
-              },
-              {
-                "company": "8*******",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "1.80",
-                  "3.30",
-                  "4.50",
-                  "1.72",
-                  "3.30",
-                  "5.00"
-                ],
-                "initial": [
-                  "51.40%",
-                  "28.04%",
-                  "20.56%",
-                  "53.61%",
-                  "27.94%",
-                  "18.44%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1438068.shtml"
-              },
-              {
-                "company": "必*",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "1.75",
-                  "3.30",
-                  "4.50",
-                  "1.74",
-                  "3.70",
-                  "6.00"
-                ],
-                "initial": [
-                  "52.11%",
-                  "27.63%",
-                  "20.26%",
-                  "56.81%",
-                  "26.72%",
-                  "16.47%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1438068.shtml"
-              },
-              {
-                "company": "1****",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "1.66",
-                  "3.50",
-                  "5.00",
-                  "1.69",
-                  "3.50",
-                  "5.25"
-                ],
-                "initial": [
-                  "55.36%",
-                  "26.26%",
-                  "18.38%",
-                  "55.41%",
-                  "26.75%",
-                  "17.84%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1438068.shtml"
-              },
-              {
-                "company": "1****",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "1.75",
-                  "3.72",
-                  "5.24",
-                  "1.76",
-                  "3.68",
-                  "5.25"
-                ],
-                "initial": [
-                  "55.42%",
-                  "26.07%",
-                  "18.51%",
-                  "55.14%",
-                  "26.37%",
-                  "18.49%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1438068.shtml"
-              },
-              {
-                "company": "I********",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "1.62",
-                  "3.50",
-                  "5.25",
-                  "1.62",
-                  "3.50",
-                  "5.25"
-                ],
-                "initial": [
-                  "56.45%",
-                  "26.13%",
-                  "17.42%",
-                  "56.45%",
-                  "26.13%",
-                  "17.42%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1438068.shtml"
-              },
-              {
-                "company": "**t********",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "1.75",
-                  "3.45",
-                  "4.70",
-                  "1.75",
-                  "3.60",
-                  "5.00"
-                ],
-                "initial": [
-                  "53.20%",
-                  "26.99%",
-                  "19.81%",
-                  "54.46%",
-                  "26.48%",
-                  "19.06%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1438068.shtml"
-              },
-              {
-                "company": "**t****",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "1.75",
-                  "3.55",
-                  "4.90",
-                  "1.75",
-                  "3.65",
-                  "5.50"
-                ],
-                "initial": [
-                  "54.05%",
-                  "26.64%",
-                  "19.30%",
-                  "55.63%",
-                  "26.67%",
-                  "17.70%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1438068.shtml"
-              },
-              {
-                "company": "**t****",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "1.75",
-                  "3.40",
-                  "4.80",
-                  "1.70",
-                  "3.55",
-                  "5.25"
-                ],
-                "initial": [
-                  "53.21%",
-                  "27.39%",
-                  "19.40%",
-                  "55.47%",
-                  "26.56%",
-                  "17.96%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1438068.shtml"
-              },
-              {
-                "company": "**t*******",
-                "market": "ouzhi",
-                "capturedAt": null,
-                "current": [
-                  "1.75",
-                  "3.40",
-                  "4.33",
-                  "1.70",
-                  "3.60",
-                  "5.00"
-                ],
-                "initial": [
-                  "52.11%",
-                  "26.82%",
-                  "21.06%",
-                  "55.18%",
-                  "26.06%",
-                  "18.76%"
-                ],
-                "source": "https://odds.500.com/fenxi/ouzhi-1438068.shtml"
-              }
-            ]
+            "error": "Error: 429 https://odds.500.com/fenxi/ouzhi-1438068.shtml",
+            "rows": []
           },
           "daxiao": {
             "status": "checked",
@@ -13087,7 +11183,7 @@
               {
                 "company": "威***",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:29",
+                "capturedAt": "2026-08-24 11:54:51",
                 "current": [
                   "1.25↑",
                   "2.5",
@@ -13103,7 +11199,7 @@
               {
                 "company": "*门",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:29",
+                "capturedAt": "2026-08-24 11:54:51",
                 "current": [
                   "0.99",
                   "2/2.5",
@@ -13119,7 +11215,7 @@
               {
                 "company": "立*",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:29",
+                "capturedAt": "2026-08-24 11:54:51",
                 "current": [
                   "1.25",
                   "2.5",
@@ -13135,7 +11231,7 @@
               {
                 "company": "B*****",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:29",
+                "capturedAt": "2026-08-24 11:54:51",
                 "current": [
                   "1.05",
                   "2/2.5",
@@ -13151,7 +11247,7 @@
               {
                 "company": "I**********",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:29",
+                "capturedAt": "2026-08-24 11:54:51",
                 "current": [
                   "1.25↑",
                   "2.5",
@@ -13167,7 +11263,7 @@
               {
                 "company": "*冠",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:29",
+                "capturedAt": "2026-08-24 11:54:51",
                 "current": [
                   "1.06↓",
                   "2/2.5",
@@ -13183,7 +11279,7 @@
               {
                 "company": "易**",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:29",
+                "capturedAt": "2026-08-24 11:54:51",
                 "current": [
                   "1.03↓",
                   "2/2.5",
@@ -13199,7 +11295,7 @@
               {
                 "company": "伟*",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:29",
+                "capturedAt": "2026-08-24 11:54:51",
                 "current": [
                   "1.04↓",
                   "2/2.5",
@@ -13215,7 +11311,7 @@
               {
                 "company": "o***",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:29",
+                "capturedAt": "2026-08-24 11:54:51",
                 "current": [
                   "1.02↓",
                   "2/2.5↓",
@@ -13232,7 +11328,7 @@
               {
                 "company": "P*********",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:29",
+                "capturedAt": "2026-08-24 11:54:51",
                 "current": [
                   "1.02↓",
                   "2/2.5",
@@ -13248,7 +11344,7 @@
               {
                 "company": "1****",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:29",
+                "capturedAt": "2026-08-24 11:54:51",
                 "current": [
                   "1.00↑",
                   "2/2.5",
@@ -13264,7 +11360,7 @@
               {
                 "company": "利*",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:29",
+                "capturedAt": "2026-08-24 11:54:51",
                 "current": [
                   "1.06↓",
                   "2/2.5",
@@ -13280,7 +11376,7 @@
               {
                 "company": "M*************",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:29",
+                "capturedAt": "2026-08-24 11:54:51",
                 "current": [
                   "1.04↑",
                   "2/2.5",
@@ -13296,7 +11392,7 @@
               {
                 "company": "香***",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:29",
+                "capturedAt": "2026-08-24 11:54:51",
                 "current": [
                   "0.93",
                   "2/2.5",
@@ -13312,7 +11408,7 @@
               {
                 "company": "1**********",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:29",
+                "capturedAt": "2026-08-24 11:54:51",
                 "current": [
                   "1.04↑",
                   "2/2.5",
@@ -13328,7 +11424,7 @@
               {
                 "company": "1****",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:29",
+                "capturedAt": "2026-08-24 11:54:51",
                 "current": [
                   "1.00↑",
                   "2/2.5",
@@ -13344,7 +11440,7 @@
               {
                 "company": "W**********",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:29",
+                "capturedAt": "2026-08-24 11:54:51",
                 "current": [
                   "1.05↓",
                   "2/2.5",
@@ -13371,7 +11467,7 @@
       "id": "010",
       "matchNum": "周一010",
       "matchId": "2041037",
-      "kickoff": "2026-08-25T03:30:00:00+08:00",
+      "kickoff": "2026-08-25T03:30:00+08:00",
       "league": "西班牙甲级联赛",
       "home": "马拉加",
       "away": "拉科鲁尼亚",
@@ -13510,80 +11606,15 @@
           "status": "Selling"
         },
         {
-          "capturedAt": "2026-08-24T03:51:49.007Z",
+          "capturedAt": "2026-08-24T11:56:29+08:00",
           "businessDate": "2026-08-24",
           "matchNum": "周一010",
           "matchId": "2041037",
-          "kickoff": "2026-08-25T03:30:00:00+08:00",
+          "kickoff": "2026-08-25T03:30:00+08:00",
           "league": "西班牙甲级联赛",
           "home": "马拉加",
           "away": "拉科鲁尼亚",
-          "score": "unavailable",
-          "handicap": {
-            "a": 1.48,
-            "d": 3.77,
-            "goalLine": -1,
-            "goalLineValue": -1,
-            "h": 5.3
-          },
-          "european": {
-            "a": 2.96,
-            "d": 2.8,
-            "h": 2.3
-          },
-          "goals": {
-            "s0": 8,
-            "s1": 3.9,
-            "s2": 3.15,
-            "s3": 3.95,
-            "s4": 7.3,
-            "s5": 16,
-            "s6": 30,
-            "s7": 50
-          },
-          "exactScores": {
-            "s00s00": 8,
-            "s00s01": 8,
-            "s00s02": 14,
-            "s00s03": 38,
-            "s00s04": 100,
-            "s00s05": 500,
-            "s01s00": 6.5,
-            "s01s01": 5.4,
-            "s01s02": 10,
-            "s01s03": 28,
-            "s01s04": 100,
-            "s01s05": 500,
-            "s02s00": 10.5,
-            "s02s01": 8,
-            "s02s02": 16,
-            "s02s03": 50,
-            "s02s04": 150,
-            "s02s05": 500,
-            "s03s00": 25,
-            "s03s01": 21,
-            "s03s02": 37,
-            "s03s03": 100,
-            "s04s00": 85,
-            "s04s01": 75,
-            "s04s02": 100,
-            "s05s00": 300,
-            "s05s01": 300,
-            "s05s02": 450
-          },
-          "source": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchCalculatorV1.qry?channel=c&poolCode=ttg,had,hhad,crs,hafu",
-          "status": "Selling"
-        },
-        {
-          "capturedAt": "2026-08-24T03:56:10.045Z",
-          "businessDate": "2026-08-24",
-          "matchNum": "周一010",
-          "matchId": "2041037",
-          "kickoff": "2026-08-25T03:30:00:00+08:00",
-          "league": "西班牙甲级联赛",
-          "home": "马拉加",
-          "away": "拉科鲁尼亚",
-          "score": "unavailable",
+          "score": "not_started",
           "handicap": {
             "a": 1.48,
             "d": 3.77,
@@ -13656,7 +11687,7 @@
               {
                 "company": "威***",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:53",
+                "capturedAt": "2026-08-24 11:54:18",
                 "current": [
                   "0.960↓",
                   "平手/半球 降",
@@ -13673,7 +11704,7 @@
               {
                 "company": "*门",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:53",
+                "capturedAt": "2026-08-24 11:54:18",
                 "current": [
                   "0.980↑",
                   "平手/半球 升",
@@ -13690,7 +11721,7 @@
               {
                 "company": "立*",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:53",
+                "capturedAt": "2026-08-24 11:54:18",
                 "current": [
                   "1.300↓",
                   "半球",
@@ -13706,7 +11737,7 @@
               {
                 "company": "B*****",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:53",
+                "capturedAt": "2026-08-24 11:54:18",
                 "current": [
                   "1.020↓",
                   "平手/半球",
@@ -13723,7 +11754,7 @@
               {
                 "company": "I**********",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:53",
+                "capturedAt": "2026-08-24 11:54:18",
                 "current": [
                   "0.630↓",
                   "平手",
@@ -13739,7 +11770,7 @@
               {
                 "company": "*冠",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:53",
+                "capturedAt": "2026-08-24 11:54:18",
                 "current": [
                   "1.030↓",
                   "平手/半球",
@@ -13756,7 +11787,7 @@
               {
                 "company": "易**",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:53",
+                "capturedAt": "2026-08-24 11:54:18",
                 "current": [
                   "1.040↓",
                   "平手/半球",
@@ -13773,7 +11804,7 @@
               {
                 "company": "o***",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:53",
+                "capturedAt": "2026-08-24 11:54:18",
                 "current": [
                   "1.100↑",
                   "平手/半球 升",
@@ -13790,7 +11821,7 @@
               {
                 "company": "伟*",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:53",
+                "capturedAt": "2026-08-24 11:54:18",
                 "current": [
                   "1.060↓",
                   "平手/半球",
@@ -13807,7 +11838,7 @@
               {
                 "company": "P*********",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:53",
+                "capturedAt": "2026-08-24 11:54:18",
                 "current": [
                   "1.060↑",
                   "平手/半球 升",
@@ -13824,7 +11855,7 @@
               {
                 "company": "利*",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:53",
+                "capturedAt": "2026-08-24 11:54:18",
                 "current": [
                   "1.070↓",
                   "平手/半球",
@@ -13841,7 +11872,7 @@
               {
                 "company": "M*************",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:53",
+                "capturedAt": "2026-08-24 11:54:18",
                 "current": [
                   "1.040↓",
                   "平手/半球",
@@ -13858,7 +11889,7 @@
               {
                 "company": "香***",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:53",
+                "capturedAt": "2026-08-24 11:54:18",
                 "current": [
                   "1.060↑",
                   "平手/半球",
@@ -13874,7 +11905,7 @@
               {
                 "company": "1**********",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:53",
+                "capturedAt": "2026-08-24 11:54:18",
                 "current": [
                   "1.040↓",
                   "平手/半球",
@@ -13891,7 +11922,7 @@
               {
                 "company": "1****",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:53",
+                "capturedAt": "2026-08-24 11:54:18",
                 "current": [
                   "1.010↓",
                   "平手/半球",
@@ -13908,7 +11939,7 @@
               {
                 "company": "W**********",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:53",
+                "capturedAt": "2026-08-24 11:54:18",
                 "current": [
                   "1.030↓",
                   "平手/半球",
@@ -14597,7 +12628,7 @@
               {
                 "company": "威***",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:29",
+                "capturedAt": "2026-08-24 11:54:51",
                 "current": [
                   "1.45↑",
                   "2.5↑",
@@ -14614,7 +12645,7 @@
               {
                 "company": "*门",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:29",
+                "capturedAt": "2026-08-24 11:54:51",
                 "current": [
                   "0.92",
                   "2",
@@ -14630,7 +12661,7 @@
               {
                 "company": "立*",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:29",
+                "capturedAt": "2026-08-24 11:54:51",
                 "current": [
                   "1.50",
                   "2.5",
@@ -14647,7 +12678,7 @@
               {
                 "company": "B*****",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:29",
+                "capturedAt": "2026-08-24 11:54:51",
                 "current": [
                   "0.90↓",
                   "2",
@@ -14663,7 +12694,7 @@
               {
                 "company": "I**********",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:29",
+                "capturedAt": "2026-08-24 11:54:51",
                 "current": [
                   "1.50",
                   "2.5",
@@ -14679,7 +12710,7 @@
               {
                 "company": "*冠",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:29",
+                "capturedAt": "2026-08-24 11:54:51",
                 "current": [
                   "0.91↓",
                   "2",
@@ -14695,7 +12726,7 @@
               {
                 "company": "易**",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:29",
+                "capturedAt": "2026-08-24 11:54:51",
                 "current": [
                   "0.89↓",
                   "2",
@@ -14711,7 +12742,7 @@
               {
                 "company": "伟*",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:29",
+                "capturedAt": "2026-08-24 11:54:51",
                 "current": [
                   "0.91↓",
                   "2",
@@ -14727,7 +12758,7 @@
               {
                 "company": "o***",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:29",
+                "capturedAt": "2026-08-24 11:54:51",
                 "current": [
                   "0.88↑",
                   "2",
@@ -14744,7 +12775,7 @@
               {
                 "company": "P*********",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:29",
+                "capturedAt": "2026-08-24 11:54:51",
                 "current": [
                   "0.92↓",
                   "2",
@@ -14760,7 +12791,7 @@
               {
                 "company": "1****",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:29",
+                "capturedAt": "2026-08-24 11:54:51",
                 "current": [
                   "0.85↓",
                   "2",
@@ -14776,7 +12807,7 @@
               {
                 "company": "利*",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:29",
+                "capturedAt": "2026-08-24 11:54:51",
                 "current": [
                   "0.91↓",
                   "2",
@@ -14792,7 +12823,7 @@
               {
                 "company": "M*************",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:29",
+                "capturedAt": "2026-08-24 11:54:51",
                 "current": [
                   "0.91↓",
                   "2",
@@ -14808,7 +12839,7 @@
               {
                 "company": "香***",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:29",
+                "capturedAt": "2026-08-24 11:54:51",
                 "current": [
                   "0.61",
                   "1.5/2",
@@ -14824,7 +12855,7 @@
               {
                 "company": "1**********",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:29",
+                "capturedAt": "2026-08-24 11:54:51",
                 "current": [
                   "0.91↓",
                   "2",
@@ -14840,7 +12871,7 @@
               {
                 "company": "1****",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:29",
+                "capturedAt": "2026-08-24 11:54:51",
                 "current": [
                   "0.86↓",
                   "2",
@@ -14856,7 +12887,7 @@
               {
                 "company": "W**********",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:29",
+                "capturedAt": "2026-08-24 11:54:51",
                 "current": [
                   "0.91↓",
                   "2",
@@ -14883,7 +12914,7 @@
       "id": "011",
       "matchNum": "周一011",
       "matchId": "2041038",
-      "kickoff": "2026-08-25T07:00:00:00+08:00",
+      "kickoff": "2026-08-25T07:00:00+08:00",
       "league": "巴西甲级联赛",
       "home": "博塔弗戈",
       "away": "巴拉纳竞技",
@@ -15022,80 +13053,15 @@
           "status": "Selling"
         },
         {
-          "capturedAt": "2026-08-24T03:51:49.007Z",
+          "capturedAt": "2026-08-24T11:56:29+08:00",
           "businessDate": "2026-08-24",
           "matchNum": "周一011",
           "matchId": "2041038",
-          "kickoff": "2026-08-25T07:00:00:00+08:00",
+          "kickoff": "2026-08-25T07:00:00+08:00",
           "league": "巴西甲级联赛",
           "home": "博塔弗戈",
           "away": "巴拉纳竞技",
-          "score": "unavailable",
-          "handicap": {
-            "a": 1.53,
-            "d": 3.7,
-            "goalLine": -1,
-            "goalLineValue": -1,
-            "h": 4.9
-          },
-          "european": {
-            "a": 2.98,
-            "d": 3,
-            "h": 2.17
-          },
-          "goals": {
-            "s0": 10,
-            "s1": 4.3,
-            "s2": 3.3,
-            "s3": 3.8,
-            "s4": 6.2,
-            "s5": 12,
-            "s6": 27,
-            "s7": 42
-          },
-          "exactScores": {
-            "s00s00": 10,
-            "s00s01": 9,
-            "s00s02": 15,
-            "s00s03": 36,
-            "s00s04": 90,
-            "s00s05": 350,
-            "s01s00": 7.25,
-            "s01s01": 6,
-            "s01s02": 10,
-            "s01s03": 25,
-            "s01s04": 80,
-            "s01s05": 300,
-            "s02s00": 11,
-            "s02s01": 7.75,
-            "s02s02": 14,
-            "s02s03": 33,
-            "s02s04": 120,
-            "s02s05": 350,
-            "s03s00": 24,
-            "s03s01": 19,
-            "s03s02": 30,
-            "s03s03": 70,
-            "s04s00": 60,
-            "s04s01": 50,
-            "s04s02": 80,
-            "s05s00": 175,
-            "s05s01": 175,
-            "s05s02": 300
-          },
-          "source": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchCalculatorV1.qry?channel=c&poolCode=ttg,had,hhad,crs,hafu",
-          "status": "Selling"
-        },
-        {
-          "capturedAt": "2026-08-24T03:56:10.045Z",
-          "businessDate": "2026-08-24",
-          "matchNum": "周一011",
-          "matchId": "2041038",
-          "kickoff": "2026-08-25T07:00:00:00+08:00",
-          "league": "巴西甲级联赛",
-          "home": "博塔弗戈",
-          "away": "巴拉纳竞技",
-          "score": "unavailable",
+          "score": "not_started",
           "handicap": {
             "a": 1.53,
             "d": 3.7,
@@ -15168,7 +13134,7 @@
               {
                 "company": "威***",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:55",
+                "capturedAt": "2026-08-24 11:56:30",
                 "current": [
                   "0.840↑",
                   "平手/半球",
@@ -15185,7 +13151,7 @@
               {
                 "company": "*门",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:55",
+                "capturedAt": "2026-08-24 11:56:30",
                 "current": [
                   "0.900",
                   "平手/半球",
@@ -15201,7 +13167,7 @@
               {
                 "company": "立*",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:55",
+                "capturedAt": "2026-08-24 11:56:30",
                 "current": [
                   "1.150",
                   "半球",
@@ -15217,7 +13183,7 @@
               {
                 "company": "B*****",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:55",
+                "capturedAt": "2026-08-24 11:56:30",
                 "current": [
                   "0.920↑",
                   "平手/半球",
@@ -15233,7 +13199,7 @@
               {
                 "company": "I**********",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:55",
+                "capturedAt": "2026-08-24 11:56:30",
                 "current": [
                   "1.200",
                   "半球",
@@ -15249,7 +13215,7 @@
               {
                 "company": "*冠",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:55",
+                "capturedAt": "2026-08-24 11:56:30",
                 "current": [
                   "0.950",
                   "平手/半球",
@@ -15265,7 +13231,7 @@
               {
                 "company": "易**",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:55",
+                "capturedAt": "2026-08-24 11:56:30",
                 "current": [
                   "0.950↓",
                   "平手/半球",
@@ -15281,7 +13247,7 @@
               {
                 "company": "伟*",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:55",
+                "capturedAt": "2026-08-24 11:56:30",
                 "current": [
                   "0.940",
                   "平手/半球",
@@ -15297,7 +13263,7 @@
               {
                 "company": "o***",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:55",
+                "capturedAt": "2026-08-24 11:56:30",
                 "current": [
                   "0.960↑",
                   "平手/半球 升",
@@ -15314,7 +13280,7 @@
               {
                 "company": "P*********",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:55",
+                "capturedAt": "2026-08-24 11:56:30",
                 "current": [
                   "1.000↑",
                   "平手/半球",
@@ -15330,7 +13296,7 @@
               {
                 "company": "利*",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:55",
+                "capturedAt": "2026-08-24 11:56:30",
                 "current": [
                   "0.960↓",
                   "平手/半球",
@@ -15346,7 +13312,7 @@
               {
                 "company": "M*************",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:55",
+                "capturedAt": "2026-08-24 11:56:30",
                 "current": [
                   "0.970↓",
                   "平手/半球 降",
@@ -15363,7 +13329,7 @@
               {
                 "company": "香***",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:55",
+                "capturedAt": "2026-08-24 11:56:30",
                 "current": [
                   "0.980",
                   "平手/半球",
@@ -15379,7 +13345,7 @@
               {
                 "company": "1**********",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:55",
+                "capturedAt": "2026-08-24 11:56:30",
                 "current": [
                   "0.970↑",
                   "平手/半球",
@@ -15395,7 +13361,7 @@
               {
                 "company": "1****",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:55",
+                "capturedAt": "2026-08-24 11:56:30",
                 "current": [
                   "0.940↑",
                   "平手/半球",
@@ -15411,7 +13377,7 @@
               {
                 "company": "W**********",
                 "market": "yazhi",
-                "capturedAt": "2026-08-24 11:49:55",
+                "capturedAt": "2026-08-24 11:56:30",
                 "current": [
                   "0.970↑",
                   "平手/半球",
@@ -16099,7 +14065,7 @@
               {
                 "company": "威***",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:30",
+                "capturedAt": "2026-08-24 11:54:52",
                 "current": [
                   "1.05",
                   "2.5",
@@ -16115,7 +14081,7 @@
               {
                 "company": "*门",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:30",
+                "capturedAt": "2026-08-24 11:54:52",
                 "current": [
                   "0.80↑",
                   "2/2.5",
@@ -16132,7 +14098,7 @@
               {
                 "company": "立*",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:30",
+                "capturedAt": "2026-08-24 11:54:52",
                 "current": [
                   "1.00",
                   "2.5",
@@ -16148,7 +14114,7 @@
               {
                 "company": "B*****",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:30",
+                "capturedAt": "2026-08-24 11:54:52",
                 "current": [
                   "0.82",
                   "2/2.5",
@@ -16164,7 +14130,7 @@
               {
                 "company": "I**********",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:30",
+                "capturedAt": "2026-08-24 11:54:52",
                 "current": [
                   "1.05",
                   "2.5",
@@ -16180,7 +14146,7 @@
               {
                 "company": "*冠",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:30",
+                "capturedAt": "2026-08-24 11:54:52",
                 "current": [
                   "0.84",
                   "2/2.5",
@@ -16196,7 +14162,7 @@
               {
                 "company": "易**",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:30",
+                "capturedAt": "2026-08-24 11:54:52",
                 "current": [
                   "0.84↑",
                   "2/2.5",
@@ -16213,7 +14179,7 @@
               {
                 "company": "伟*",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:30",
+                "capturedAt": "2026-08-24 11:54:52",
                 "current": [
                   "0.82↑",
                   "2/2.5",
@@ -16230,7 +14196,7 @@
               {
                 "company": "o***",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:30",
+                "capturedAt": "2026-08-24 11:54:52",
                 "current": [
                   "0.84↓",
                   "2/2.5↓",
@@ -16247,7 +14213,7 @@
               {
                 "company": "P*********",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:30",
+                "capturedAt": "2026-08-24 11:54:52",
                 "current": [
                   "0.85↑",
                   "2/2.5",
@@ -16264,7 +14230,7 @@
               {
                 "company": "1****",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:30",
+                "capturedAt": "2026-08-24 11:54:52",
                 "current": [
                   "0.76↑",
                   "2/2.5",
@@ -16280,7 +14246,7 @@
               {
                 "company": "利*",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:30",
+                "capturedAt": "2026-08-24 11:54:52",
                 "current": [
                   "0.85↑",
                   "2/2.5",
@@ -16296,7 +14262,7 @@
               {
                 "company": "M*************",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:30",
+                "capturedAt": "2026-08-24 11:54:52",
                 "current": [
                   "0.83↑",
                   "2/2.5",
@@ -16313,7 +14279,7 @@
               {
                 "company": "香***",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:30",
+                "capturedAt": "2026-08-24 11:54:52",
                 "current": [
                   "0.85",
                   "2/2.5",
@@ -16329,7 +14295,7 @@
               {
                 "company": "1**********",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:30",
+                "capturedAt": "2026-08-24 11:54:52",
                 "current": [
                   "0.83↑",
                   "2/2.5",
@@ -16346,7 +14312,7 @@
               {
                 "company": "1****",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:30",
+                "capturedAt": "2026-08-24 11:54:52",
                 "current": [
                   "0.81↑",
                   "2/2.5",
@@ -16363,7 +14329,7 @@
               {
                 "company": "W**********",
                 "market": "daxiao",
-                "capturedAt": "2026-08-24 11:50:30",
+                "capturedAt": "2026-08-24 11:54:52",
                 "current": [
                   "0.84↑",
                   "2/2.5",
