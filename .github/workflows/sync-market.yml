@@ -14,7 +14,6 @@ concurrency:
 
 jobs:
   sync:
-    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout dashboard
@@ -23,7 +22,12 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
+      - name: Resolve China business date
+        id: date
+        run: echo "market_date=$(TZ=Asia/Shanghai date +%Y%m%d)" >> "$GITHUB_OUTPUT"
       - name: Collect official snapshot
+        env:
+          MARKET_DATE: ${{ steps.date.outputs.market_date }}
         run: |
           for attempt in 1 2 3; do
             node scripts/collect_official.mjs && break
@@ -31,18 +35,22 @@ jobs:
             sleep 20
           done
       - name: Collect 500 company markets
+        env:
+          MARKET_DATE: ${{ steps.date.outputs.market_date }}
         run: |
           for attempt in 1 2 3; do
-            node scripts/collect_500.mjs && break
+            node scripts/collect_500.mjs "$MARKET_DATE" && break
             if [ "$attempt" = "3" ]; then exit 1; fi
             sleep 20
           done
       - name: Merge and publish data
-        run: node scripts/merge_market.mjs
+        env:
+          MARKET_DATE: ${{ steps.date.outputs.market_date }}
+        run: node scripts/merge_market.mjs "$MARKET_DATE"
       - name: Commit updated data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/raw data/market_*.json
+          git add data/raw data/market_*.json data/current.json app.js
           git diff --cached --quiet || git commit -m "Auto-sync football market data"
           git push
