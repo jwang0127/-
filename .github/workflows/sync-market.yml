@@ -26,6 +26,7 @@ jobs:
         id: date
         run: echo "market_date=$(TZ=Asia/Shanghai date +%Y%m%d)" >> "$GITHUB_OUTPUT"
       - name: Collect official snapshot
+        continue-on-error: true
         env:
           MARKET_DATE: ${{ steps.date.outputs.market_date }}
         run: |
@@ -35,6 +36,7 @@ jobs:
             sleep 20
           done
       - name: Collect 500 company markets
+        continue-on-error: true
         env:
           MARKET_DATE: ${{ steps.date.outputs.market_date }}
         run: |
