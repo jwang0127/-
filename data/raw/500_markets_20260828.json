@@ -1,0 +1,497 @@
+{
+  "date": "2026-08-28",
+  "generatedAt": "2026-08-28T00:15:59.556Z",
+  "source": "https://trade.500.com/jczq/index.php?date=2026-08-28&g=2&playid=269",
+  "matches": {
+    "001": {
+      "id": "001",
+      "matchNum": "周五001",
+      "fixtureId": "1430311",
+      "home": "不伦瑞克",
+      "away": "柏林赫塔",
+      "kickoff": "2026-08-29T00:30:00+08:00",
+      "league": "德乙",
+      "pages": {
+        "yazhi": {
+          "status": "unavailable",
+          "source": "https://odds.500.com/fenxi/yazhi-1430311.shtml",
+          "error": "TypeError: fetch failed",
+          "rows": []
+        },
+        "ouzhi": {
+          "status": "unavailable",
+          "source": "https://odds.500.com/fenxi/ouzhi-1430311.shtml",
+          "error": "TypeError: fetch failed",
+          "rows": []
+        },
+        "daxiao": {
+          "status": "unavailable",
+          "source": "https://odds.500.com/fenxi/daxiao-1430311.shtml",
+          "error": "TypeError: fetch failed",
+          "rows": []
+        },
+        "bifen": {
+          "status": "unavailable",
+          "source": "https://odds.500.com/fenxi/bifen-1430311.shtml",
+          "error": "TypeError: fetch failed",
+          "rows": []
+        }
+      }
+    },
+    "002": {
+      "id": "002",
+      "matchNum": "周五002",
+      "fixtureId": "1430017",
+      "home": "波鸿",
+      "away": "奥斯纳",
+      "kickoff": "2026-08-29T00:30:00+08:00",
+      "league": "德乙",
+      "pages": {
+        "yazhi": {
+          "status": "unavailable",
+          "source": "https://odds.500.com/fenxi/yazhi-1430017.shtml",
+          "error": "TypeError: fetch failed",
+          "rows": []
+        },
+        "ouzhi": {
+          "status": "unavailable",
+          "source": "https://odds.500.com/fenxi/ouzhi-1430017.shtml",
+          "error": "TypeError: fetch failed",
+          "rows": []
+        },
+        "daxiao": {
+          "status": "unavailable",
+          "source": "https://odds.500.com/fenxi/daxiao-1430017.shtml",
+          "error": "TypeError: fetch failed",
+          "rows": []
+        },
+        "bifen": {
+          "status": "unavailable",
+          "source": "https://odds.500.com/fenxi/bifen-1430017.shtml",
+          "error": "TypeError: fetch failed",
+          "rows": []
+        }
+      }
+    },
+    "003": {
+      "id": "003",
+      "matchNum": "周五003",
+      "fixtureId": "1427971",
+      "home": "桑坦德",
+      "away": "埃尔切",
+      "kickoff": "2026-08-29T01:00:00+08:00",
+      "league": "西甲",
+      "pages": {
+        "yazhi": {
+          "status": "unavailable",
+          "source": "https://odds.500.com/fenxi/yazhi-1427971.shtml",
+          "error": "TypeError: fetch failed",
+          "rows": []
+        },
+        "ouzhi": {
+          "status": "unavailable",
+          "source": "https://odds.500.com/fenxi/ouzhi-1427971.shtml",
+          "error": "TypeError: fetch failed",
+          "rows": []
+        },
+        "daxiao": {
+          "status": "unavailable",
+          "source": "https://odds.500.com/fenxi/daxiao-1427971.shtml",
+          "error": "TypeError: fetch failed",
+          "rows": []
+        },
+        "bifen": {
+          "status": "unavailable",
+          "source": "https://odds.500.com/fenxi/bifen-1427971.shtml",
+          "error": "TypeError: fetch failed",
+          "rows": []
+        }
+      }
+    },
+    "004": {
+      "id": "004",
+      "matchNum": "周五004",
+      "fixtureId": "1467700",
+      "home": "赛哈特海湾",
+      "away": "利雅得新月",
+      "kickoff": "2026-08-29T02:00:00+08:00",
+      "league": "沙特职业联赛",
+      "pages": {
+        "yazhi": {
+          "status": "unavailable",
+          "source": "https://odds.500.com/fenxi/yazhi-1467700.shtml",
+          "error": "TypeError: fetch failed",
+          "rows": []
+        },
+        "ouzhi": {
+          "status": "unavailable",
+          "source": "https://odds.500.com/fenxi/ouzhi-1467700.shtml",
+          "error": "TypeError: fetch failed",
+          "rows": []
+        },
+        "daxiao": {
+          "status": "unavailable",
+          "source": "https://odds.500.com/fenxi/daxiao-1467700.shtml",
+          "error": "TypeError: fetch failed",
+          "rows": []
+        },
+        "bifen": {
+          "status": "unavailable",
+          "source": "https://odds.500.com/fenxi/bifen-1467700.shtml",
+          "error": "TypeError: fetch failed",
+          "rows": []
+        }
+      }
+    },
+    "005": {
+      "id": "005",
+      "matchNum": "周五005",
+      "fixtureId": "1416884",
+      "home": "蒙彼利埃",
+      "away": "布洛涅",
+      "kickoff": "2026-08-29T02:00:00+08:00",
+      "league": "法乙",
+      "pages": {
+        "yazhi": {
+          "status": "unavailable",
+          "source": "https://odds.500.com/fenxi/yazhi-1416884.shtml",
+          "error": "TypeError: fetch failed",
+          "rows": []
+        },
+        "ouzhi": {
+          "status": "unavailable",
+          "source": "https://odds.500.com/fenxi/ouzhi-1416884.shtml",
+          "error": "TypeError: fetch failed",
+          "rows": []
+        },
+        "daxiao": {
+          "status": "unavailable",
+          "source": "https://odds.500.com/fenxi/daxiao-1416884.shtml",
+          "error": "TypeError: fetch failed",
+          "rows": []
+        },
+        "bifen": {
+          "status": "unavailable",
+          "source": "https://odds.500.com/fenxi/bifen-1416884.shtml",
+          "error": "TypeError: fetch failed",
+          "rows": []
+        }
+      }
+    },
+    "006": {
+      "id": "006",
+      "matchNum": "周五006",
+      "fixtureId": "1415886",
+      "home": "格罗宁根",
+      "away": "福图纳",
+      "kickoff": "2026-08-29T02:00:00+08:00",
+      "league": "荷甲",
+      "pages": {
+        "yazhi": {
+          "status": "unavailable",
+          "source": "https://odds.500.com/fenxi/yazhi-1415886.shtml",
+          "error": "TypeError: fetch failed",
+          "rows": []
+        },
+        "ouzhi": {
+          "status": "unavailable",
+          "source": "https://odds.500.com/fenxi/ouzhi-1415886.shtml",
+          "error": "TypeError: fetch failed",
+          "rows": []
+        },
+        "daxiao": {
+          "status": "unavailable",
+          "source": "https://odds.500.com/fenxi/daxiao-1415886.shtml",
+          "error": "TypeError: fetch failed",
+          "rows": []
+        },
+        "bifen": {
+          "status": "unavailable",
+          "source": "https://odds.500.com/fenxi/bifen-1415886.shtml",
+          "error": "TypeError: fetch failed",
+          "rows": []
+        }
+      }
+    },
+    "007": {
+      "id": "007",
+      "matchNum": "周五007",
+      "fixtureId": "1415904",
+      "home": "罗达JC",
+      "away": "布雷达",
+      "kickoff": "2026-08-29T02:00:00+08:00",
+      "league": "荷乙",
+      "pages": {
+        "yazhi": {
+          "status": "unavailable",
+          "source": "https://odds.500.com/fenxi/yazhi-1415904.shtml",
+          "error": "TypeError: fetch failed",
+          "rows": []
+        },
+        "ouzhi": {
+          "status": "unavailable",
+          "source": "https://odds.500.com/fenxi/ouzhi-1415904.shtml",
+          "error": "TypeError: fetch failed",
+          "rows": []
+        },
+        "daxiao": {
+          "status": "unavailable",
+          "source": "https://odds.500.com/fenxi/daxiao-1415904.shtml",
+          "error": "TypeError: fetch failed",
+          "rows": []
+        },
+        "bifen": {
+          "status": "unavailable",
+          "source": "https://odds.500.com/fenxi/bifen-1415904.shtml",
+          "error": "TypeError: fetch failed",
+          "rows": []
+        }
+      }
+    },
+    "008": {
+      "id": "008",
+      "matchNum": "周五008",
+      "fixtureId": "1428453",
+      "home": "拜仁",
+      "away": "斯图加特",
+      "kickoff": "2026-08-29T02:30:00+08:00",
+      "league": "德甲",
+      "pages": {
+        "yazhi": {
+          "status": "unavailable",
+          "source": "https://odds.500.com/fenxi/yazhi-1428453.shtml",
+          "error": "TypeError: fetch failed",
+          "rows": []
+        },
+        "ouzhi": {
+          "status": "unavailable",
+          "source": "https://odds.500.com/fenxi/ouzhi-1428453.shtml",
+          "error": "TypeError: fetch failed",
+          "rows": []
+        },
+        "daxiao": {
+          "status": "unavailable",
+          "source": "https://odds.500.com/fenxi/daxiao-1428453.shtml",
+          "error": "TypeError: fetch failed",
+          "rows": []
+        },
+        "bifen": {
+          "status": "unavailable",
+          "source": "https://odds.500.com/fenxi/bifen-1428453.shtml",
+          "error": "TypeError: fetch failed",
+          "rows": []
+        }
+      }
+    },
+    "009": {
+      "id": "009",
+      "matchNum": "周五009",
+      "fixtureId": "1414200",
+      "home": "AC米兰",
+      "away": "威尼斯",
+      "kickoff": "2026-08-29T02:45:00+08:00",
+      "league": "意甲",
+      "pages": {
+        "yazhi": {
+          "status": "unavailable",
+          "source": "https://odds.500.com/fenxi/yazhi-1414200.shtml",
+          "error": "TypeError: fetch failed",
+          "rows": []
+        },
+        "ouzhi": {
+          "status": "unavailable",
+          "source": "https://odds.500.com/fenxi/ouzhi-1414200.shtml",
+          "error": "TypeError: fetch failed",
+          "rows": []
+        },
+        "daxiao": {
+          "status": "unavailable",
+          "source": "https://odds.500.com/fenxi/daxiao-1414200.shtml",
+          "error": "TypeError: fetch failed",
+          "rows": []
+        },
+        "bifen": {
+          "status": "unavailable",
+          "source": "https://odds.500.com/fenxi/bifen-1414200.shtml",
+          "error": "TypeError: fetch failed",
+          "rows": []
+        }
+      }
+    },
+    "010": {
+      "id": "010",
+      "matchNum": "周五010",
+      "fixtureId": "1415095",
+      "home": "里尔",
+      "away": "巴黎圣曼",
+      "kickoff": "2026-08-29T02:45:00+08:00",
+      "league": "法甲",
+      "pages": {
+        "yazhi": {
+          "status": "unavailable",
+          "source": "https://odds.500.com/fenxi/yazhi-1415095.shtml",
+          "error": "TypeError: fetch failed",
+          "rows": []
+        },
+        "ouzhi": {
+          "status": "unavailable",
+          "source": "https://odds.500.com/fenxi/ouzhi-1415095.shtml",
+          "error": "TypeError: fetch failed",
+          "rows": []
+        },
+        "daxiao": {
+          "status": "unavailable",
+          "source": "https://odds.500.com/fenxi/daxiao-1415095.shtml",
+          "error": "TypeError: fetch failed",
+          "rows": []
+        },
+        "bifen": {
+          "status": "unavailable",
+          "source": "https://odds.500.com/fenxi/bifen-1415095.shtml",
+          "error": "TypeError: fetch failed",
+          "rows": []
+        }
+      }
+    },
+    "011": {
+      "id": "011",
+      "matchNum": "周五011",
+      "fixtureId": "1420359",
+      "home": "水晶宫",
+      "away": "曼城",
+      "kickoff": "2026-08-29T03:00:00+08:00",
+      "league": "英超",
+      "pages": {
+        "yazhi": {
+          "status": "unavailable",
+          "source": "https://odds.500.com/fenxi/yazhi-1420359.shtml",
+          "error": "TypeError: fetch failed",
+          "rows": []
+        },
+        "ouzhi": {
+          "status": "unavailable",
+          "source": "https://odds.500.com/fenxi/ouzhi-1420359.shtml",
+          "error": "TypeError: fetch failed",
+          "rows": []
+        },
+        "daxiao": {
+          "status": "unavailable",
+          "source": "https://odds.500.com/fenxi/daxiao-1420359.shtml",
+          "error": "TypeError: fetch failed",
+          "rows": []
+        },
+        "bifen": {
+          "status": "unavailable",
+          "source": "https://odds.500.com/fenxi/bifen-1420359.shtml",
+          "error": "TypeError: fetch failed",
+          "rows": []
+        }
+      }
+    },
+    "012": {
+      "id": "012",
+      "matchNum": "周五012",
+      "fixtureId": "1425388",
+      "home": "雷克斯",
+      "away": "伯明翰",
+      "kickoff": "2026-08-29T03:00:00+08:00",
+      "league": "英冠",
+      "pages": {
+        "yazhi": {
+          "status": "unavailable",
+          "source": "https://odds.500.com/fenxi/yazhi-1425388.shtml",
+          "error": "TypeError: fetch failed",
+          "rows": []
+        },
+        "ouzhi": {
+          "status": "unavailable",
+          "source": "https://odds.500.com/fenxi/ouzhi-1425388.shtml",
+          "error": "TypeError: fetch failed",
+          "rows": []
+        },
+        "daxiao": {
+          "status": "unavailable",
+          "source": "https://odds.500.com/fenxi/daxiao-1425388.shtml",
+          "error": "TypeError: fetch failed",
+          "rows": []
+        },
+        "bifen": {
+          "status": "unavailable",
+          "source": "https://odds.500.com/fenxi/bifen-1425388.shtml",
+          "error": "TypeError: fetch failed",
+          "rows": []
+        }
+      }
+    },
+    "013": {
+      "id": "013",
+      "matchNum": "周五013",
+      "fixtureId": "1438082",
+      "home": "里奥阿维",
+      "away": "里斯本",
+      "kickoff": "2026-08-29T03:15:00+08:00",
+      "league": "葡超",
+      "pages": {
+        "yazhi": {
+          "status": "unavailable",
+          "source": "https://odds.500.com/fenxi/yazhi-1438082.shtml",
+          "error": "TypeError: fetch failed",
+          "rows": []
+        },
+        "ouzhi": {
+          "status": "unavailable",
+          "source": "https://odds.500.com/fenxi/ouzhi-1438082.shtml",
+          "error": "TypeError: fetch failed",
+          "rows": []
+        },
+        "daxiao": {
+          "status": "unavailable",
+          "source": "https://odds.500.com/fenxi/daxiao-1438082.shtml",
+          "error": "TypeError: fetch failed",
+          "rows": []
+        },
+        "bifen": {
+          "status": "unavailable",
+          "source": "https://odds.500.com/fenxi/bifen-1438082.shtml",
+          "error": "TypeError: fetch failed",
+          "rows": []
+        }
+      }
+    },
+    "014": {
+      "id": "014",
+      "matchNum": "周五014",
+      "fixtureId": "1427960",
+      "home": "阿拉维斯",
+      "away": "比利亚雷",
+      "kickoff": "2026-08-29T03:30:00+08:00",
+      "league": "西甲",
+      "pages": {
+        "yazhi": {
+          "status": "unavailable",
+          "source": "https://odds.500.com/fenxi/yazhi-1427960.shtml",
+          "error": "TypeError: fetch failed",
+          "rows": []
+        },
+        "ouzhi": {
+          "status": "unavailable",
+          "source": "https://odds.500.com/fenxi/ouzhi-1427960.shtml",
+          "error": "TypeError: fetch failed",
+          "rows": []
+        },
+        "daxiao": {
+          "status": "unavailable",
+          "source": "https://odds.500.com/fenxi/daxiao-1427960.shtml",
+          "error": "TypeError: fetch failed",
+          "rows": []
+        },
+        "bifen": {
+          "status": "unavailable",
+          "source": "https://odds.500.com/fenxi/bifen-1427960.shtml",
+          "error": "TypeError: fetch failed",
+          "rows": []
+        }
+      }
+    }
+  }
+}
