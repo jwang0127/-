@@ -1,6 +1,6 @@
 {
   "businessDate": "2026-08-29",
-  "generatedAt": "2026-08-29T08:47:06.797Z",
+  "generatedAt": "2026-08-29T10:51:32.861Z",
   "matchCount": 29,
   "sourceRegistry": [
     {
@@ -1181,7 +1181,7 @@
       "fiveHundred": {
         "id": "007",
         "matchNum": "周六007",
-        "fixtureId": "-1",
+        "fixtureId": "1425379",
         "home": "伍尔弗汉普顿",
         "away": "斯托克城",
         "kickoff": "2026-08-29T19:30:00+08:00",
@@ -1189,25 +1189,25 @@
         "pages": {
           "yazhi": {
             "status": "unavailable",
-            "source": "https://odds.500.com/fenxi/yazhi--1.shtml",
+            "source": "https://odds.500.com/fenxi/yazhi-1425379.shtml",
             "error": "TypeError: fetch failed",
             "rows": []
           },
           "ouzhi": {
             "status": "unavailable",
-            "source": "https://odds.500.com/fenxi/ouzhi--1.shtml",
+            "source": "https://odds.500.com/fenxi/ouzhi-1425379.shtml",
             "error": "TypeError: fetch failed",
             "rows": []
           },
           "daxiao": {
             "status": "unavailable",
-            "source": "https://odds.500.com/fenxi/daxiao--1.shtml",
+            "source": "https://odds.500.com/fenxi/daxiao-1425379.shtml",
             "error": "TypeError: fetch failed",
             "rows": []
           },
           "bifen": {
             "status": "unavailable",
-            "source": "https://odds.500.com/fenxi/bifen--1.shtml",
+            "source": "https://odds.500.com/fenxi/bifen-1425379.shtml",
             "error": "TypeError: fetch failed",
             "rows": []
           }
